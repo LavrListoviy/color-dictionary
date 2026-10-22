@@ -1,0 +1,8676 @@
+{
+  "sources": [
+    {
+      "id": "mattdesl",
+      "title": "Matt DesLauriers · Dictionary of Colour Combinations",
+      "url": "https://github.com/mattdesl/dictionary-of-colour-combinations",
+      "note": "Открытая оцифровка первого тома, MIT. Первоначальные данные: Dain M. Blodorn Kim. Экранные значения — приближение печатных CMYK."
+    },
+    {
+      "id": "wada-ink",
+      "title": "Wada.ink · Allison Peña",
+      "url": "https://wada.ink/palettes",
+      "note": "233 палитры второго тома из общедоступного каталога. Перенесены названия, значения цветов и состав сочетаний; авторские описания сайта не используются. С бумажным экземпляром независимо не сверены."
+    }
+  ],
+  "colors": [
+    {
+      "id": "hermosa-pink",
+      "name": "Hermosa Pink",
+      "hex": "#f9c1ce",
+      "cmyk": [
+        0,
+        30,
+        6,
+        0
+      ]
+    },
+    {
+      "id": "corinthian-pink",
+      "name": "Corinthian Pink",
+      "hex": "#f8b6ba",
+      "cmyk": [
+        0,
+        35,
+        15,
+        0
+      ]
+    },
+    {
+      "id": "cameo-pink",
+      "name": "Cameo Pink",
+      "hex": "#e0b3b6",
+      "cmyk": [
+        10,
+        32,
+        19,
+        0
+      ]
+    },
+    {
+      "id": "fawn",
+      "name": "Fawn",
+      "hex": "#d1b0a7",
+      "cmyk": [
+        18,
+        31,
+        30,
+        0
+      ]
+    },
+    {
+      "id": "light-brown-drab",
+      "name": "Light Brown Drab",
+      "hex": "#b59392",
+      "cmyk": [
+        8,
+        30,
+        20,
+        25
+      ]
+    },
+    {
+      "id": "coral-red",
+      "name": "Coral Red",
+      "hex": "#f58e84",
+      "cmyk": [
+        0,
+        55,
+        40,
+        0
+      ]
+    },
+    {
+      "id": "fresh-color",
+      "name": "Fresh Color",
+      "hex": "#f6917e",
+      "cmyk": [
+        0,
+        53,
+        45,
+        0
+      ]
+    },
+    {
+      "id": "grenadine-pink",
+      "name": "Grenadine Pink",
+      "hex": "#f48067",
+      "cmyk": [
+        0,
+        62,
+        58,
+        0
+      ]
+    },
+    {
+      "id": "eosine-pink",
+      "name": "Eosine Pink",
+      "hex": "#f37f94",
+      "cmyk": [
+        0,
+        63,
+        23,
+        0
+      ]
+    },
+    {
+      "id": "spinel-red",
+      "name": "Spinel Red",
+      "hex": "#f27291",
+      "cmyk": [
+        0,
+        70,
+        21,
+        0
+      ]
+    },
+    {
+      "id": "old-rose",
+      "name": "Old Rose",
+      "hex": "#d46d7a",
+      "cmyk": [
+        15,
+        70,
+        40,
+        0
+      ]
+    },
+    {
+      "id": "eugenia-red-a",
+      "name": "Eugenia Red | A",
+      "hex": "#e2625e",
+      "cmyk": [
+        7,
+        76,
+        60,
+        0
+      ]
+    },
+    {
+      "id": "eugenia-red-b",
+      "name": "Eugenia Red | B",
+      "hex": "#da525d",
+      "cmyk": [
+        0,
+        80,
+        50,
+        10
+      ]
+    },
+    {
+      "id": "raw-sienna",
+      "name": "Raw Sienna",
+      "hex": "#bb7125",
+      "cmyk": [
+        18,
+        58,
+        100,
+        12
+      ]
+    },
+    {
+      "id": "vinaceous-tawny",
+      "name": "Vinaceous Tawny",
+      "hex": "#c56127",
+      "cmyk": [
+        17,
+        72,
+        100,
+        6
+      ]
+    },
+    {
+      "id": "jasper-red",
+      "name": "Jasper Red",
+      "hex": "#eb5324",
+      "cmyk": [
+        2,
+        83,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "spectrum-red",
+      "name": "Spectrum Red",
+      "hex": "#e31f26",
+      "cmyk": [
+        5,
+        100,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "red-orange",
+      "name": "Red Orange",
+      "hex": "#dd4027",
+      "cmyk": [
+        9,
+        90,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "etruscan-red",
+      "name": "Etruscan Red",
+      "hex": "#c55347",
+      "cmyk": [
+        16,
+        80,
+        74,
+        6
+      ]
+    },
+    {
+      "id": "burnt-sienna",
+      "name": "Burnt Sienna",
+      "hex": "#ae5224",
+      "cmyk": [
+        22,
+        76,
+        100,
+        15
+      ]
+    },
+    {
+      "id": "ochre-red",
+      "name": "Ochre Red",
+      "hex": "#ab544d",
+      "cmyk": [
+        18,
+        73,
+        63,
+        20
+      ]
+    },
+    {
+      "id": "scarlet",
+      "name": "Scarlet",
+      "hex": "#cb2f43",
+      "cmyk": [
+        10,
+        95,
+        72,
+        7
+      ]
+    },
+    {
+      "id": "carmine",
+      "name": "Carmine",
+      "hex": "#cc1236",
+      "cmyk": [
+        0,
+        100,
+        75,
+        16
+      ]
+    },
+    {
+      "id": "indian-lake",
+      "name": "Indian Lake",
+      "hex": "#c53c69",
+      "cmyk": [
+        12,
+        89,
+        35,
+        9
+      ]
+    },
+    {
+      "id": "rosolanc-purple",
+      "name": "Rosolanc Purple",
+      "hex": "#b73f74",
+      "cmyk": [
+        30,
+        90,
+        33,
+        0
+      ]
+    },
+    {
+      "id": "pomegranite-purple",
+      "name": "Pomegranite Purple",
+      "hex": "#b71f57",
+      "cmyk": [
+        23,
+        100,
+        50,
+        6
+      ]
+    },
+    {
+      "id": "hydrangea-red",
+      "name": "Hydrangea Red",
+      "hex": "#a94151",
+      "cmyk": [
+        38,
+        90,
+        70,
+        0
+      ]
+    },
+    {
+      "id": "brick-red",
+      "name": "Brick Red",
+      "hex": "#a84222",
+      "cmyk": [
+        22,
+        84,
+        100,
+        18
+      ]
+    },
+    {
+      "id": "carmine-red",
+      "name": "Carmine Red",
+      "hex": "#a62c37",
+      "cmyk": [
+        25,
+        95,
+        80,
+        16
+      ]
+    },
+    {
+      "id": "pompeian-red",
+      "name": "Pompeian Red",
+      "hex": "#ab2439",
+      "cmyk": [
+        18,
+        97,
+        74,
+        19
+      ]
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#a72144",
+      "cmyk": [
+        30,
+        100,
+        70,
+        10
+      ]
+    },
+    {
+      "id": "brown",
+      "name": "Brown",
+      "hex": "#7c4226",
+      "cmyk": [
+        35,
+        74,
+        90,
+        35
+      ]
+    },
+    {
+      "id": "hay-s-russet",
+      "name": "Hay's Russet",
+      "hex": "#793327",
+      "cmyk": [
+        37,
+        85,
+        87,
+        35
+      ]
+    },
+    {
+      "id": "vandyke-red",
+      "name": "Vandyke Red",
+      "hex": "#82241f",
+      "cmyk": [
+        32,
+        95,
+        95,
+        33
+      ]
+    },
+    {
+      "id": "pansy-purple",
+      "name": "Pansy Purple",
+      "hex": "#7d133a",
+      "cmyk": [
+        34,
+        100,
+        60,
+        34
+      ]
+    },
+    {
+      "id": "pale-burnt-lake",
+      "name": "Pale Burnt Lake",
+      "hex": "#802626",
+      "cmyk": [
+        25,
+        90,
+        80,
+        40
+      ]
+    },
+    {
+      "id": "violet-red",
+      "name": "Violet Red",
+      "hex": "#642d5e",
+      "cmyk": [
+        75,
+        100,
+        50,
+        5
+      ]
+    },
+    {
+      "id": "vistoris-lake",
+      "name": "Vistoris Lake",
+      "hex": "#6d4145",
+      "cmyk": [
+        40,
+        71,
+        55,
+        40
+      ]
+    },
+    {
+      "id": "sulpher-yellow",
+      "name": "Sulpher Yellow",
+      "hex": "#f5ecc2",
+      "cmyk": [
+        4,
+        4,
+        28,
+        0
+      ]
+    },
+    {
+      "id": "pale-lemon-yellow",
+      "name": "Pale Lemon Yellow",
+      "hex": "#ffefae",
+      "cmyk": [
+        0,
+        4,
+        38,
+        0
+      ]
+    },
+    {
+      "id": "naples-yellow",
+      "name": "Naples Yellow",
+      "hex": "#fbe6a0",
+      "cmyk": [
+        2,
+        7,
+        44,
+        0
+      ]
+    },
+    {
+      "id": "ivory-buff",
+      "name": "Ivory Buff",
+      "hex": "#ebd3a2",
+      "cmyk": [
+        8,
+        15,
+        40,
+        0
+      ]
+    },
+    {
+      "id": "seashell-pink",
+      "name": "Seashell Pink",
+      "hex": "#fdd4bd",
+      "cmyk": [
+        0,
+        19,
+        23,
+        0
+      ]
+    },
+    {
+      "id": "light-pinkish-cinnamon",
+      "name": "Light Pinkish Cinnamon",
+      "hex": "#fcc79b",
+      "cmyk": [
+        0,
+        25,
+        40,
+        0
+      ]
+    },
+    {
+      "id": "pinkish-cinnamon",
+      "name": "Pinkish Cinnamon",
+      "hex": "#eeb480",
+      "cmyk": [
+        5,
+        32,
+        53,
+        0
+      ]
+    },
+    {
+      "id": "cinnamon-buff",
+      "name": "Cinnamon Buff",
+      "hex": "#fdc57e",
+      "cmyk": [
+        0,
+        25,
+        57,
+        0
+      ]
+    },
+    {
+      "id": "cream-yellow",
+      "name": "Cream Yellow",
+      "hex": "#fdbf68",
+      "cmyk": [
+        0,
+        28,
+        68,
+        0
+      ]
+    },
+    {
+      "id": "golden-yellow",
+      "name": "Golden Yellow",
+      "hex": "#f3a257",
+      "cmyk": [
+        2,
+        42,
+        74,
+        0
+      ]
+    },
+    {
+      "id": "vinaceous-cinnamon",
+      "name": "Vinaceous Cinnamon",
+      "hex": "#eea78c",
+      "cmyk": [
+        4,
+        40,
+        42,
+        0
+      ]
+    },
+    {
+      "id": "ochraceous-salmon",
+      "name": "Ochraceous Salmon",
+      "hex": "#d8a37b",
+      "cmyk": [
+        15,
+        38,
+        55,
+        0
+      ]
+    },
+    {
+      "id": "isabella-color",
+      "name": "Isabella Color",
+      "hex": "#c5a56e",
+      "cmyk": [
+        15,
+        28,
+        60,
+        10
+      ]
+    },
+    {
+      "id": "maple",
+      "name": "Maple",
+      "hex": "#c59f6b",
+      "cmyk": [
+        5,
+        26,
+        56,
+        20
+      ]
+    },
+    {
+      "id": "olive-buff",
+      "name": "Olive Buff",
+      "hex": "#c1c494",
+      "cmyk": [
+        16,
+        6,
+        42,
+        12
+      ]
+    },
+    {
+      "id": "ecru",
+      "name": "Ecru",
+      "hex": "#c2ae93",
+      "cmyk": [
+        20,
+        25,
+        40,
+        6
+      ]
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "hex": "#fff200",
+      "cmyk": [
+        0,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "lemon-yellow",
+      "name": "Lemon Yellow",
+      "hex": "#f8ed43",
+      "cmyk": [
+        5,
+        0,
+        85,
+        0
+      ]
+    },
+    {
+      "id": "apricot-yellow",
+      "name": "Apricot Yellow",
+      "hex": "#ffdd00",
+      "cmyk": [
+        0,
+        10,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "pyrite-yellow",
+      "name": "Pyrite Yellow",
+      "hex": "#cab356",
+      "cmyk": [
+        23,
+        25,
+        80,
+        0
+      ]
+    },
+    {
+      "id": "olive-ocher",
+      "name": "Olive Ocher",
+      "hex": "#d6b43e",
+      "cmyk": [
+        18,
+        26,
+        90,
+        0
+      ]
+    },
+    {
+      "id": "yellow-ocher",
+      "name": "Yellow Ocher",
+      "hex": "#e2b540",
+      "cmyk": [
+        12,
+        28,
+        88,
+        0
+      ]
+    },
+    {
+      "id": "orange-yellow",
+      "name": "Orange Yellow",
+      "hex": "#fcb315",
+      "cmyk": [
+        0,
+        33,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "yellow-orange",
+      "name": "Yellow Orange",
+      "hex": "#f99d1b",
+      "cmyk": [
+        0,
+        45,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "apricot-orange",
+      "name": "Apricot Orange",
+      "hex": "#f68c50",
+      "cmyk": [
+        0,
+        55,
+        75,
+        0
+      ]
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "hex": "#f37420",
+      "cmyk": [
+        0,
+        68,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "peach-red",
+      "name": "Peach Red",
+      "hex": "#f15a30",
+      "cmyk": [
+        0,
+        80,
+        90,
+        0
+      ]
+    },
+    {
+      "id": "english-red",
+      "name": "English Red",
+      "hex": "#d96629",
+      "cmyk": [
+        13,
+        73,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "cinnamon-rufous",
+      "name": "Cinnamon Rufous",
+      "hex": "#c27544",
+      "cmyk": [
+        20,
+        60,
+        82,
+        5
+      ]
+    },
+    {
+      "id": "orange-rufous",
+      "name": "Orange Rufous",
+      "hex": "#c16b27",
+      "cmyk": [
+        18,
+        65,
+        100,
+        8
+      ]
+    },
+    {
+      "id": "sulphine-yellow",
+      "name": "Sulphine Yellow",
+      "hex": "#c19f2c",
+      "cmyk": [
+        24,
+        32,
+        100,
+        4
+      ]
+    },
+    {
+      "id": "khaki",
+      "name": "Khaki",
+      "hex": "#bc892b",
+      "cmyk": [
+        24,
+        45,
+        100,
+        6
+      ]
+    },
+    {
+      "id": "citron-yellow",
+      "name": "Citron Yellow",
+      "hex": "#b2b73e",
+      "cmyk": [
+        35,
+        17,
+        95,
+        0
+      ]
+    },
+    {
+      "id": "citrine",
+      "name": "Citrine",
+      "hex": "#b09f36",
+      "cmyk": [
+        36,
+        32,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "buffy-citrine",
+      "name": "Buffy Citrine",
+      "hex": "#96874d",
+      "cmyk": [
+        42,
+        40,
+        82,
+        8
+      ]
+    },
+    {
+      "id": "dark-citrine",
+      "name": "Dark Citrine",
+      "hex": "#8b835b",
+      "cmyk": [
+        38,
+        34,
+        67,
+        20
+      ]
+    },
+    {
+      "id": "light-grayish-olive",
+      "name": "Light Grayish Olive",
+      "hex": "#848061",
+      "cmyk": [
+        43,
+        36,
+        62,
+        19
+      ]
+    },
+    {
+      "id": "krongbergs-green",
+      "name": "Krongbergs Green",
+      "hex": "#84875e",
+      "cmyk": [
+        48,
+        35,
+        70,
+        12
+      ]
+    },
+    {
+      "id": "olive",
+      "name": "Olive",
+      "hex": "#837e31",
+      "cmyk": [
+        48,
+        38,
+        100,
+        15
+      ]
+    },
+    {
+      "id": "orange-citrine",
+      "name": "Orange Citrine",
+      "hex": "#986f2d",
+      "cmyk": [
+        28,
+        48,
+        92,
+        24
+      ]
+    },
+    {
+      "id": "sudan-brown",
+      "name": "Sudan Brown",
+      "hex": "#a36752",
+      "cmyk": [
+        25,
+        60,
+        65,
+        19
+      ]
+    },
+    {
+      "id": "olive-green",
+      "name": "Olive Green",
+      "hex": "#6b7140",
+      "cmyk": [
+        56,
+        40,
+        85,
+        22
+      ]
+    },
+    {
+      "id": "light-brownish-olive",
+      "name": "Light Brownish Olive",
+      "hex": "#806e4b",
+      "cmyk": [
+        42,
+        46,
+        73,
+        24
+      ]
+    },
+    {
+      "id": "deep-grayish-olive",
+      "name": "Deep Grayish Olive",
+      "hex": "#635a3a",
+      "cmyk": [
+        50,
+        48,
+        78,
+        37
+      ]
+    },
+    {
+      "id": "pale-raw-umber",
+      "name": "Pale Raw Umber",
+      "hex": "#71502f",
+      "cmyk": [
+        46,
+        63,
+        87,
+        32
+      ]
+    },
+    {
+      "id": "sepia",
+      "name": "Sepia",
+      "hex": "#644b1e",
+      "cmyk": [
+        48,
+        60,
+        100,
+        40
+      ]
+    },
+    {
+      "id": "madder-brown",
+      "name": "Madder Brown",
+      "hex": "#762c19",
+      "cmyk": [
+        36,
+        88,
+        100,
+        38
+      ]
+    },
+    {
+      "id": "mars-brown-tobacco",
+      "name": "Mars Brown Tobacco",
+      "hex": "#653514",
+      "cmyk": [
+        39,
+        76,
+        100,
+        47
+      ]
+    },
+    {
+      "id": "vandyke-brown",
+      "name": "Vandyke Brown",
+      "hex": "#4b3317",
+      "cmyk": [
+        56,
+        71,
+        97,
+        52
+      ]
+    },
+    {
+      "id": "turquoise-green",
+      "name": "Turquoise Green",
+      "hex": "#b5decc",
+      "cmyk": [
+        29,
+        0,
+        24,
+        0
+      ]
+    },
+    {
+      "id": "glaucous-green",
+      "name": "Glaucous Green",
+      "hex": "#b4cdc2",
+      "cmyk": [
+        30,
+        9,
+        24,
+        0
+      ]
+    },
+    {
+      "id": "dark-greenish-glaucous",
+      "name": "Dark Greenish Glaucous",
+      "hex": "#b7c2a9",
+      "cmyk": [
+        30,
+        15,
+        36,
+        0
+      ]
+    },
+    {
+      "id": "yellow-green",
+      "name": "Yellow Green",
+      "hex": "#afd472",
+      "cmyk": [
+        35,
+        0,
+        72,
+        0
+      ]
+    },
+    {
+      "id": "light-green-yellow",
+      "name": "Light Green Yellow",
+      "hex": "#c7d14f",
+      "cmyk": [
+        26,
+        5,
+        85,
+        0
+      ]
+    },
+    {
+      "id": "night-green",
+      "name": "Night Green",
+      "hex": "#87c540",
+      "cmyk": [
+        52,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "olive-yellow",
+      "name": "Olive Yellow",
+      "hex": "#a6a159",
+      "cmyk": [
+        40,
+        30,
+        80,
+        0
+      ]
+    },
+    {
+      "id": "artemesia-green",
+      "name": "Artemesia Green",
+      "hex": "#709390",
+      "cmyk": [
+        57,
+        28,
+        39,
+        8
+      ]
+    },
+    {
+      "id": "andover-green",
+      "name": "Andover Green",
+      "hex": "#6d7e77",
+      "cmyk": [
+        60,
+        40,
+        50,
+        10
+      ]
+    },
+    {
+      "id": "rainette-green",
+      "name": "Rainette Green",
+      "hex": "#8fa071",
+      "cmyk": [
+        42,
+        20,
+        62,
+        10
+      ]
+    },
+    {
+      "id": "chromium-green",
+      "name": "Chromium Green",
+      "hex": "#719470",
+      "cmyk": [
+        50,
+        16,
+        58,
+        20
+      ]
+    },
+    {
+      "id": "pistachio-green",
+      "name": "Pistachio Green",
+      "hex": "#648f7b",
+      "cmyk": [
+        64,
+        29,
+        56,
+        6
+      ]
+    },
+    {
+      "id": "sea-green",
+      "name": "Sea Green",
+      "hex": "#00b49b",
+      "cmyk": [
+        80,
+        0,
+        51,
+        0
+      ]
+    },
+    {
+      "id": "benzol-green",
+      "name": "Benzol Green",
+      "hex": "#00978d",
+      "cmyk": [
+        100,
+        15,
+        55,
+        0
+      ]
+    },
+    {
+      "id": "light-porcelain-green",
+      "name": "Light Porcelain Green",
+      "hex": "#00908a",
+      "cmyk": [
+        86,
+        22,
+        50,
+        3
+      ]
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "hex": "#489b6e",
+      "cmyk": [
+        75,
+        21,
+        73,
+        0
+      ]
+    },
+    {
+      "id": "dull-viridian-green",
+      "name": "Dull Viridian Green",
+      "hex": "#009465",
+      "cmyk": [
+        90,
+        20,
+        80,
+        0
+      ]
+    },
+    {
+      "id": "oil-green",
+      "name": "Oil Green",
+      "hex": "#819238",
+      "cmyk": [
+        53,
+        28,
+        100,
+        8
+      ]
+    },
+    {
+      "id": "diamine-green",
+      "name": "Diamine Green",
+      "hex": "#1a7444",
+      "cmyk": [
+        87,
+        32,
+        91,
+        18
+      ]
+    },
+    {
+      "id": "cossack-green",
+      "name": "Cossack Green",
+      "hex": "#437742",
+      "cmyk": [
+        76,
+        32,
+        91,
+        18
+      ]
+    },
+    {
+      "id": "lincoln-green",
+      "name": "Lincoln Green",
+      "hex": "#555832",
+      "cmyk": [
+        60,
+        48,
+        86,
+        37
+      ]
+    },
+    {
+      "id": "blackish-olive",
+      "name": "Blackish Olive",
+      "hex": "#42533e",
+      "cmyk": [
+        56,
+        32,
+        63,
+        55
+      ]
+    },
+    {
+      "id": "deep-slate-olive",
+      "name": "Deep Slate Olive",
+      "hex": "#253122",
+      "cmyk": [
+        76,
+        60,
+        80,
+        62
+      ]
+    },
+    {
+      "id": "nile-blue",
+      "name": "Nile Blue",
+      "hex": "#bce4e5",
+      "cmyk": [
+        25,
+        0,
+        10,
+        0
+      ]
+    },
+    {
+      "id": "pale-king-s-blue",
+      "name": "Pale King's Blue",
+      "hex": "#a7d4e4",
+      "cmyk": [
+        33,
+        4,
+        7,
+        0
+      ]
+    },
+    {
+      "id": "light-glaucous-blue",
+      "name": "Light Glaucous Blue",
+      "hex": "#a5c8d1",
+      "cmyk": [
+        35,
+        10,
+        14,
+        0
+      ]
+    },
+    {
+      "id": "salvia-blue",
+      "name": "Salvia Blue",
+      "hex": "#97acc8",
+      "cmyk": [
+        41,
+        25,
+        10,
+        0
+      ]
+    },
+    {
+      "id": "cobalt-green",
+      "name": "Cobalt Green",
+      "hex": "#96d1aa",
+      "cmyk": [
+        42,
+        0,
+        42,
+        0
+      ]
+    },
+    {
+      "id": "calamine-blue",
+      "name": "Calamine BLue",
+      "hex": "#78cdd0",
+      "cmyk": [
+        50,
+        0,
+        20,
+        0
+      ]
+    },
+    {
+      "id": "venice-green",
+      "name": "Venice Green",
+      "hex": "#62c6bf",
+      "cmyk": [
+        58,
+        0,
+        30,
+        0
+      ]
+    },
+    {
+      "id": "cerulian-blue",
+      "name": "Cerulian Blue",
+      "hex": "#0093a5",
+      "cmyk": [
+        84,
+        26,
+        32,
+        0
+      ]
+    },
+    {
+      "id": "peacock-blue",
+      "name": "Peacock Blue",
+      "hex": "#00939b",
+      "cmyk": [
+        100,
+        19,
+        43,
+        0
+      ]
+    },
+    {
+      "id": "green-blue",
+      "name": "Green Blue",
+      "hex": "#099197",
+      "cmyk": [
+        82,
+        24,
+        40,
+        3
+      ]
+    },
+    {
+      "id": "olympic-blue",
+      "name": "Olympic Blue",
+      "hex": "#5a82b3",
+      "cmyk": [
+        69,
+        44,
+        10,
+        0
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "hex": "#006eb8",
+      "cmyk": [
+        95,
+        54,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "antwarp-blue",
+      "name": "Antwarp Blue",
+      "hex": "#007190",
+      "cmyk": [
+        100,
+        40,
+        30,
+        10
+      ]
+    },
+    {
+      "id": "helvetia-blue",
+      "name": "Helvetia Blue",
+      "hex": "#005b8d",
+      "cmyk": [
+        100,
+        62,
+        19,
+        10
+      ]
+    },
+    {
+      "id": "dark-medici-blue",
+      "name": "Dark Medici Blue",
+      "hex": "#547076",
+      "cmyk": [
+        70,
+        45,
+        45,
+        15
+      ]
+    },
+    {
+      "id": "dusky-green",
+      "name": "Dusky Green",
+      "hex": "#004f46",
+      "cmyk": [
+        100,
+        30,
+        64,
+        50
+      ]
+    },
+    {
+      "id": "deep-lyons-blue",
+      "name": "Deep Lyons Blue",
+      "hex": "#1c4286",
+      "cmyk": [
+        100,
+        85,
+        15,
+        6
+      ]
+    },
+    {
+      "id": "violet-blue",
+      "name": "Violet Blue",
+      "hex": "#40456a",
+      "cmyk": [
+        85,
+        79,
+        38,
+        16
+      ]
+    },
+    {
+      "id": "vandar-poel-s-blue",
+      "name": "Vandar Poel's Blue",
+      "hex": "#064f6e",
+      "cmyk": [
+        100,
+        73,
+        43,
+        10
+      ]
+    },
+    {
+      "id": "dark-tyrian-blue",
+      "name": "Dark Tyrian Blue",
+      "hex": "#12354e",
+      "cmyk": [
+        90,
+        66,
+        36,
+        50
+      ]
+    },
+    {
+      "id": "dull-violet-black",
+      "name": "Dull Violet Black",
+      "hex": "#1e0e3f"
+    },
+    {
+      "id": "deep-indigo",
+      "name": "Deep Indigo",
+      "hex": "#051230",
+      "cmyk": [
+        100,
+        92,
+        52,
+        60
+      ]
+    },
+    {
+      "id": "deep-slate-green",
+      "name": "Deep Slate Green",
+      "hex": "#112f2c",
+      "cmyk": [
+        80,
+        50,
+        60,
+        70
+      ]
+    },
+    {
+      "id": "grayish-lavender-a",
+      "name": "Grayish Lavender - A",
+      "hex": "#b5b1d8",
+      "cmyk": [
+        28,
+        28,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "grayish-lavender-b",
+      "name": "Grayish Lavender - B",
+      "hex": "#c0a9b3",
+      "cmyk": [
+        25,
+        33,
+        20,
+        0
+      ]
+    },
+    {
+      "id": "laelia-pink",
+      "name": "Laelia Pink",
+      "hex": "#ca92a8",
+      "cmyk": [
+        20,
+        48,
+        18,
+        0
+      ]
+    },
+    {
+      "id": "lilac",
+      "name": "Lilac",
+      "hex": "#b984af",
+      "cmyk": [
+        28,
+        54,
+        8,
+        0
+      ]
+    },
+    {
+      "id": "eupatorium-purple",
+      "name": "Eupatorium Purple",
+      "hex": "#bf5892",
+      "cmyk": [
+        25,
+        79,
+        12,
+        0
+      ]
+    },
+    {
+      "id": "light-mauve",
+      "name": "Light Mauve",
+      "hex": "#9a72aa",
+      "cmyk": [
+        43,
+        62,
+        5,
+        0
+      ]
+    },
+    {
+      "id": "aconite-violet",
+      "name": "Aconite Violet",
+      "hex": "#a36aa5",
+      "cmyk": [
+        39,
+        68,
+        5,
+        0
+      ]
+    },
+    {
+      "id": "dull-blue-violet",
+      "name": "Dull Blue Violet",
+      "hex": "#80719e",
+      "cmyk": [
+        57,
+        60,
+        17,
+        0
+      ]
+    },
+    {
+      "id": "dark-soft-violet",
+      "name": "Dark Soft Violet",
+      "hex": "#66629c",
+      "cmyk": [
+        70,
+        68,
+        13,
+        0
+      ]
+    },
+    {
+      "id": "blue-violet",
+      "name": "Blue Violet",
+      "hex": "#6450a1",
+      "cmyk": [
+        72,
+        80,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "purple-drab",
+      "name": "Purple Drab",
+      "hex": "#84565b",
+      "cmyk": [
+        38,
+        65,
+        49,
+        26
+      ]
+    },
+    {
+      "id": "deep-violet-plumbeous",
+      "name": "Deep Violet / Plumbeous",
+      "hex": "#70727c",
+      "cmyk": [
+        61,
+        52,
+        43,
+        7
+      ]
+    },
+    {
+      "id": "veronia-purple",
+      "name": "Veronia Purple",
+      "hex": "#8c4c62",
+      "cmyk": [
+        42,
+        78,
+        46,
+        15
+      ]
+    },
+    {
+      "id": "dark-slate-purple",
+      "name": "Dark Slate Purple",
+      "hex": "#704357",
+      "cmyk": [
+        64,
+        85,
+        60,
+        10
+      ]
+    },
+    {
+      "id": "taupe-brown",
+      "name": "Taupe Brown",
+      "hex": "#7a4456",
+      "cmyk": [
+        30,
+        70,
+        35,
+        40
+      ]
+    },
+    {
+      "id": "violet-carmine",
+      "name": "Violet Carmine",
+      "hex": "#713b4c",
+      "cmyk": [
+        64,
+        90,
+        70,
+        10
+      ]
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "hex": "#4f4086",
+      "cmyk": [
+        85,
+        90,
+        18,
+        0
+      ]
+    },
+    {
+      "id": "red-violet",
+      "name": "Red Violet",
+      "hex": "#59256a",
+      "cmyk": [
+        76,
+        100,
+        25,
+        15
+      ]
+    },
+    {
+      "id": "cotinga-purple",
+      "name": "Cotinga Purple",
+      "hex": "#501345",
+      "cmyk": [
+        66,
+        100,
+        42,
+        40
+      ]
+    },
+    {
+      "id": "dusky-madder-violet",
+      "name": "Dusky Madder Violet",
+      "hex": "#4e1d4c",
+      "cmyk": [
+        75,
+        100,
+        46,
+        30
+      ]
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "hex": "#ffffff",
+      "cmyk": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "neutral-gray",
+      "name": "Neutral Gray",
+      "hex": "#b6bfc1",
+      "cmyk": [
+        29,
+        18,
+        20,
+        0
+      ]
+    },
+    {
+      "id": "mineral-gray",
+      "name": "Mineral Gray",
+      "hex": "#a2b0ad",
+      "cmyk": [
+        33,
+        18,
+        25,
+        7
+      ]
+    },
+    {
+      "id": "warm-gray",
+      "name": "Warm Gray",
+      "hex": "#a1a39a",
+      "cmyk": [
+        37,
+        28,
+        36,
+        3
+      ]
+    },
+    {
+      "id": "slate-color",
+      "name": "Slate Color",
+      "hex": "#34454c",
+      "cmyk": [
+        85,
+        70,
+        62,
+        30
+      ]
+    },
+    {
+      "id": "black",
+      "name": "Black",
+      "hex": "#111314",
+      "cmyk": [
+        20,
+        10,
+        15,
+        100
+      ]
+    },
+    {
+      "id": "sulphur-yellow",
+      "name": "Sulphur Yellow",
+      "hex": "#f5ecc2",
+      "cmyk": [
+        4,
+        4,
+        28,
+        0
+      ]
+    },
+    {
+      "id": "dull-citrine",
+      "name": "Dull Citrine",
+      "hex": "#96874d",
+      "cmyk": [
+        52,
+        45,
+        78,
+        0
+      ]
+    },
+    {
+      "id": "pale-king-s-blue-2",
+      "name": "Pale King's Blue 2",
+      "hex": "#a7d4e4",
+      "cmyk": [
+        33,
+        4,
+        7,
+        0
+      ]
+    },
+    {
+      "id": "dark-perilla-purple",
+      "name": "Dark Perilla Purple",
+      "hex": "#542e36",
+      "cmyk": [
+        77,
+        95,
+        85,
+        20
+      ]
+    },
+    {
+      "id": "pale-purplish-vinaceous",
+      "name": "Pale Purplish Vinaceous",
+      "hex": "#fde2dd",
+      "cmyk": [
+        0,
+        13,
+        8,
+        0
+      ]
+    },
+    {
+      "id": "grape-green",
+      "name": "Grape Green",
+      "hex": "#a2a865",
+      "cmyk": [
+        41,
+        25,
+        74,
+        0
+      ]
+    },
+    {
+      "id": "pale-cinnamon-pink",
+      "name": "Pale Cinnamon-Pink",
+      "hex": "#f4deca",
+      "cmyk": [
+        3,
+        12,
+        19,
+        0
+      ]
+    },
+    {
+      "id": "sea-foam-yellow",
+      "name": "Sea-foam Yellow",
+      "hex": "#f0e6be",
+      "cmyk": [
+        6,
+        6,
+        29,
+        0
+      ]
+    },
+    {
+      "id": "dull-purplish-black",
+      "name": "Dull Purplish Black",
+      "hex": "#443b35",
+      "cmyk": [
+        85,
+        85,
+        90,
+        20
+      ]
+    },
+    {
+      "id": "pale-king-s-blue-1",
+      "name": "Pale King's Blue 1",
+      "hex": "#f0f3e7",
+      "cmyk": [
+        5,
+        1,
+        9,
+        0
+      ]
+    },
+    {
+      "id": "pale-ecru-drab",
+      "name": "Pale Ecru-Drab",
+      "hex": "#c5b7b0",
+      "cmyk": [
+        23,
+        25,
+        27,
+        0
+      ]
+    },
+    {
+      "id": "pale-methyl-blue",
+      "name": "Pale Methyl Blue",
+      "hex": "#54afb4",
+      "cmyk": [
+        65,
+        12,
+        30,
+        0
+      ]
+    },
+    {
+      "id": "violet-ultramarine",
+      "name": "Violet Ultramarine",
+      "hex": "#522e91",
+      "cmyk": [
+        85,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "pale-turtle-green",
+      "name": "Pale Turtle Green",
+      "hex": "#c3cd9d",
+      "cmyk": [
+        25,
+        10,
+        45,
+        0
+      ]
+    }
+  ],
+  "palettes": [
+    {
+      "id": "v1-001",
+      "volume": 1,
+      "number": 1,
+      "colorIds": [
+        "english-red",
+        "cerulian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-002",
+      "volume": 1,
+      "number": 2,
+      "colorIds": [
+        "yellow-orange",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-003",
+      "volume": 1,
+      "number": 3,
+      "colorIds": [
+        "raw-sienna",
+        "pale-lemon-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-004",
+      "volume": 1,
+      "number": 4,
+      "colorIds": [
+        "isabella-color",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-005",
+      "volume": 1,
+      "number": 5,
+      "colorIds": [
+        "cossack-green",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-006",
+      "volume": 1,
+      "number": 6,
+      "colorIds": [
+        "grenadine-pink",
+        "deep-indigo"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-007",
+      "volume": 1,
+      "number": 7,
+      "colorIds": [
+        "orange",
+        "glaucous-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-008",
+      "volume": 1,
+      "number": 8,
+      "colorIds": [
+        "cinnamon-rufous",
+        "grayish-lavender-a"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-009",
+      "volume": 1,
+      "number": 9,
+      "colorIds": [
+        "violet-red",
+        "dull-blue-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-010",
+      "volume": 1,
+      "number": 10,
+      "colorIds": [
+        "cinnamon-rufous",
+        "dark-citrine"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-011",
+      "volume": 1,
+      "number": 11,
+      "colorIds": [
+        "ivory-buff",
+        "mineral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-012",
+      "volume": 1,
+      "number": 12,
+      "colorIds": [
+        "isabella-color",
+        "green-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-013",
+      "volume": 1,
+      "number": 13,
+      "colorIds": [
+        "raw-sienna",
+        "veronia-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-014",
+      "volume": 1,
+      "number": 14,
+      "colorIds": [
+        "spinel-red",
+        "naples-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-015",
+      "volume": 1,
+      "number": 15,
+      "colorIds": [
+        "benzol-green",
+        "grayish-lavender-a"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-016",
+      "volume": 1,
+      "number": 16,
+      "colorIds": [
+        "vandyke-red",
+        "pale-king-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-017",
+      "volume": 1,
+      "number": 17,
+      "colorIds": [
+        "eugenia-red-b",
+        "sea-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-018",
+      "volume": 1,
+      "number": 18,
+      "colorIds": [
+        "fawn",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-019",
+      "volume": 1,
+      "number": 19,
+      "colorIds": [
+        "mars-brown-tobacco",
+        "night-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-020",
+      "volume": 1,
+      "number": 20,
+      "colorIds": [
+        "calamine-blue",
+        "laelia-pink"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-021",
+      "volume": 1,
+      "number": 21,
+      "colorIds": [
+        "grenadine-pink",
+        "sea-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-022",
+      "volume": 1,
+      "number": 22,
+      "colorIds": [
+        "yellow",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-023",
+      "volume": 1,
+      "number": 23,
+      "colorIds": [
+        "cinnamon-buff",
+        "light-mauve"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-024",
+      "volume": 1,
+      "number": 24,
+      "colorIds": [
+        "sepia",
+        "veronia-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-025",
+      "volume": 1,
+      "number": 25,
+      "colorIds": [
+        "etruscan-red",
+        "nile-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-026",
+      "volume": 1,
+      "number": 26,
+      "colorIds": [
+        "golden-yellow",
+        "pale-raw-umber"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-027",
+      "volume": 1,
+      "number": 27,
+      "colorIds": [
+        "corinthian-pink",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-028",
+      "volume": 1,
+      "number": 28,
+      "colorIds": [
+        "madder-brown",
+        "deep-indigo"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-029",
+      "volume": 1,
+      "number": 29,
+      "colorIds": [
+        "krongbergs-green",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-030",
+      "volume": 1,
+      "number": 30,
+      "colorIds": [
+        "pompeian-red",
+        "mineral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-031",
+      "volume": 1,
+      "number": 31,
+      "colorIds": [
+        "red-orange",
+        "pale-lemon-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-032",
+      "volume": 1,
+      "number": 32,
+      "colorIds": [
+        "ochraceous-salmon",
+        "night-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-033",
+      "volume": 1,
+      "number": 33,
+      "colorIds": [
+        "raw-sienna",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-034",
+      "volume": 1,
+      "number": 34,
+      "colorIds": [
+        "eosine-pink",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-035",
+      "volume": 1,
+      "number": 35,
+      "colorIds": [
+        "light-brown-drab",
+        "carmine-red"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-036",
+      "volume": 1,
+      "number": 36,
+      "colorIds": [
+        "sulphine-yellow",
+        "turquoise-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-037",
+      "volume": 1,
+      "number": 37,
+      "colorIds": [
+        "brick-red",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-038",
+      "volume": 1,
+      "number": 38,
+      "colorIds": [
+        "diamine-green",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-039",
+      "volume": 1,
+      "number": 39,
+      "colorIds": [
+        "carmine",
+        "helvetia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-040",
+      "volume": 1,
+      "number": 40,
+      "colorIds": [
+        "vinaceous-tawny",
+        "citron-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-041",
+      "volume": 1,
+      "number": 41,
+      "colorIds": [
+        "dark-citrine",
+        "calamine-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-042",
+      "volume": 1,
+      "number": 42,
+      "colorIds": [
+        "yellow-ocher",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-043",
+      "volume": 1,
+      "number": 43,
+      "colorIds": [
+        "corinthian-pink",
+        "aconite-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-044",
+      "volume": 1,
+      "number": 44,
+      "colorIds": [
+        "light-porcelain-green",
+        "olympic-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-045",
+      "volume": 1,
+      "number": 45,
+      "colorIds": [
+        "seashell-pink",
+        "lemon-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-046",
+      "volume": 1,
+      "number": 46,
+      "colorIds": [
+        "orange",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-047",
+      "volume": 1,
+      "number": 47,
+      "colorIds": [
+        "etruscan-red",
+        "grayish-lavender-b"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-048",
+      "volume": 1,
+      "number": 48,
+      "colorIds": [
+        "rosolanc-purple",
+        "helvetia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-049",
+      "volume": 1,
+      "number": 49,
+      "colorIds": [
+        "pale-king-s-blue",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-050",
+      "volume": 1,
+      "number": 50,
+      "colorIds": [
+        "ivory-buff",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-051",
+      "volume": 1,
+      "number": 51,
+      "colorIds": [
+        "carmine-red",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-052",
+      "volume": 1,
+      "number": 52,
+      "colorIds": [
+        "sulpher-yellow",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-053",
+      "volume": 1,
+      "number": 53,
+      "colorIds": [
+        "yellow-orange",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-054",
+      "volume": 1,
+      "number": 54,
+      "colorIds": [
+        "benzol-green",
+        "light-glaucous-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-055",
+      "volume": 1,
+      "number": 55,
+      "colorIds": [
+        "old-rose",
+        "white"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-056",
+      "volume": 1,
+      "number": 56,
+      "colorIds": [
+        "grayish-lavender-b",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-057",
+      "volume": 1,
+      "number": 57,
+      "colorIds": [
+        "taupe-brown",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-058",
+      "volume": 1,
+      "number": 58,
+      "colorIds": [
+        "hay-s-russet",
+        "sea-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-059",
+      "volume": 1,
+      "number": 59,
+      "colorIds": [
+        "eosine-pink",
+        "citrine"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-060",
+      "volume": 1,
+      "number": 60,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-061",
+      "volume": 1,
+      "number": 61,
+      "colorIds": [
+        "light-green-yellow",
+        "cotinga-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-062",
+      "volume": 1,
+      "number": 62,
+      "colorIds": [
+        "yellow",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-063",
+      "volume": 1,
+      "number": 63,
+      "colorIds": [
+        "vistoris-lake",
+        "cerulian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-064",
+      "volume": 1,
+      "number": 64,
+      "colorIds": [
+        "aconite-violet",
+        "dark-soft-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-065",
+      "volume": 1,
+      "number": 65,
+      "colorIds": [
+        "sulphine-yellow",
+        "calamine-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-066",
+      "volume": 1,
+      "number": 66,
+      "colorIds": [
+        "olive-ocher",
+        "olive-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-067",
+      "volume": 1,
+      "number": 67,
+      "colorIds": [
+        "olympic-blue",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-068",
+      "volume": 1,
+      "number": 68,
+      "colorIds": [
+        "light-brown-drab",
+        "yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-069",
+      "volume": 1,
+      "number": 69,
+      "colorIds": [
+        "warm-gray",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-070",
+      "volume": 1,
+      "number": 70,
+      "colorIds": [
+        "raw-sienna",
+        "lincoln-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-071",
+      "volume": 1,
+      "number": 71,
+      "colorIds": [
+        "pompeian-red",
+        "ochraceous-salmon"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-072",
+      "volume": 1,
+      "number": 72,
+      "colorIds": [
+        "sulpher-yellow",
+        "pale-king-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-073",
+      "volume": 1,
+      "number": 73,
+      "colorIds": [
+        "pale-raw-umber",
+        "rainette-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-074",
+      "volume": 1,
+      "number": 74,
+      "colorIds": [
+        "turquoise-green",
+        "green-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-075",
+      "volume": 1,
+      "number": 75,
+      "colorIds": [
+        "pale-king-s-blue",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-076",
+      "volume": 1,
+      "number": 76,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "warm-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-077",
+      "volume": 1,
+      "number": 77,
+      "colorIds": [
+        "eugenia-red-b",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-078",
+      "volume": 1,
+      "number": 78,
+      "colorIds": [
+        "pinkish-cinnamon",
+        "venice-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-079",
+      "volume": 1,
+      "number": 79,
+      "colorIds": [
+        "madder-brown",
+        "green-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-080",
+      "volume": 1,
+      "number": 80,
+      "colorIds": [
+        "sulpher-yellow",
+        "light-mauve"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-081",
+      "volume": 1,
+      "number": 81,
+      "colorIds": [
+        "golden-yellow",
+        "warm-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-082",
+      "volume": 1,
+      "number": 82,
+      "colorIds": [
+        "hay-s-russet",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-083",
+      "volume": 1,
+      "number": 83,
+      "colorIds": [
+        "olive-buff",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-084",
+      "volume": 1,
+      "number": 84,
+      "colorIds": [
+        "seashell-pink",
+        "deep-slate-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-085",
+      "volume": 1,
+      "number": 85,
+      "colorIds": [
+        "vinaceous-tawny",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-086",
+      "volume": 1,
+      "number": 86,
+      "colorIds": [
+        "raw-sienna",
+        "sea-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-087",
+      "volume": 1,
+      "number": 87,
+      "colorIds": [
+        "corinthian-pink",
+        "citron-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-088",
+      "volume": 1,
+      "number": 88,
+      "colorIds": [
+        "seashell-pink",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-089",
+      "volume": 1,
+      "number": 89,
+      "colorIds": [
+        "yellow-orange",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-090",
+      "volume": 1,
+      "number": 90,
+      "colorIds": [
+        "eosine-pink",
+        "aconite-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-091",
+      "volume": 1,
+      "number": 91,
+      "colorIds": [
+        "vistoris-lake",
+        "orange-rufous"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-092",
+      "volume": 1,
+      "number": 92,
+      "colorIds": [
+        "coral-red",
+        "benzol-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-093",
+      "volume": 1,
+      "number": 93,
+      "colorIds": [
+        "citrine",
+        "light-glaucous-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-094",
+      "volume": 1,
+      "number": 94,
+      "colorIds": [
+        "ivory-buff",
+        "dusky-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-095",
+      "volume": 1,
+      "number": 95,
+      "colorIds": [
+        "hay-s-russet",
+        "dull-violet-black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-096",
+      "volume": 1,
+      "number": 96,
+      "colorIds": [
+        "yellow-ocher",
+        "olive"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-097",
+      "volume": 1,
+      "number": 97,
+      "colorIds": [
+        "corinthian-pink",
+        "etruscan-red"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-098",
+      "volume": 1,
+      "number": 98,
+      "colorIds": [
+        "madder-brown",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-099",
+      "volume": 1,
+      "number": 99,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "cerulian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-100",
+      "volume": 1,
+      "number": 100,
+      "colorIds": [
+        "buffy-citrine",
+        "dull-blue-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-101",
+      "volume": 1,
+      "number": 101,
+      "colorIds": [
+        "cameo-pink",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-102",
+      "volume": 1,
+      "number": 102,
+      "colorIds": [
+        "ivory-buff",
+        "orange-rufous"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-103",
+      "volume": 1,
+      "number": 103,
+      "colorIds": [
+        "cinnamon-rufous",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-104",
+      "volume": 1,
+      "number": 104,
+      "colorIds": [
+        "carmine-red",
+        "sulpher-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-105",
+      "volume": 1,
+      "number": 105,
+      "colorIds": [
+        "cameo-pink",
+        "chromium-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-106",
+      "volume": 1,
+      "number": 106,
+      "colorIds": [
+        "antwarp-blue",
+        "dull-violet-black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-107",
+      "volume": 1,
+      "number": 107,
+      "colorIds": [
+        "apricot-yellow",
+        "light-grayish-olive"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-108",
+      "volume": 1,
+      "number": 108,
+      "colorIds": [
+        "eosine-pink",
+        "brick-red"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-109",
+      "volume": 1,
+      "number": 109,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "blackish-olive"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-110",
+      "volume": 1,
+      "number": 110,
+      "colorIds": [
+        "brown",
+        "vandyke-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-111",
+      "volume": 1,
+      "number": 111,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "yellow-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-112",
+      "volume": 1,
+      "number": 112,
+      "colorIds": [
+        "grenadine-pink",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-113",
+      "volume": 1,
+      "number": 113,
+      "colorIds": [
+        "seashell-pink",
+        "vandyke-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-114",
+      "volume": 1,
+      "number": 114,
+      "colorIds": [
+        "orange-yellow",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-115",
+      "volume": 1,
+      "number": 115,
+      "colorIds": [
+        "naples-yellow",
+        "peach-red"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-116",
+      "volume": 1,
+      "number": 116,
+      "colorIds": [
+        "cameo-pink",
+        "blue-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-117",
+      "volume": 1,
+      "number": 117,
+      "colorIds": [
+        "carmine",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-118",
+      "volume": 1,
+      "number": 118,
+      "colorIds": [
+        "yellow-ocher",
+        "vandyke-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-119",
+      "volume": 1,
+      "number": 119,
+      "colorIds": [
+        "light-glaucous-blue",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-120",
+      "volume": 1,
+      "number": 120,
+      "colorIds": [
+        "cameo-pink",
+        "pompeian-red"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-121",
+      "volume": 1,
+      "number": 121,
+      "colorIds": [
+        "brown",
+        "ochraceous-salmon",
+        "lincoln-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-122",
+      "volume": 1,
+      "number": 122,
+      "colorIds": [
+        "carmine",
+        "cream-yellow",
+        "benzol-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-123",
+      "volume": 1,
+      "number": 123,
+      "colorIds": [
+        "coral-red",
+        "lemon-yellow",
+        "taupe-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-124",
+      "volume": 1,
+      "number": 124,
+      "colorIds": [
+        "pale-burnt-lake",
+        "yellow-ocher",
+        "olive-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-125",
+      "volume": 1,
+      "number": 125,
+      "colorIds": [
+        "fawn",
+        "cerulian-blue",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-126",
+      "volume": 1,
+      "number": 126,
+      "colorIds": [
+        "ivory-buff",
+        "yellow-ocher",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-127",
+      "volume": 1,
+      "number": 127,
+      "colorIds": [
+        "cinnamon-buff",
+        "pistachio-green",
+        "dark-soft-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-128",
+      "volume": 1,
+      "number": 128,
+      "colorIds": [
+        "corinthian-pink",
+        "venice-green",
+        "light-mauve"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-129",
+      "volume": 1,
+      "number": 129,
+      "colorIds": [
+        "apricot-yellow",
+        "khaki",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-130",
+      "volume": 1,
+      "number": 130,
+      "colorIds": [
+        "raw-sienna",
+        "carmine-red",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-131",
+      "volume": 1,
+      "number": 131,
+      "colorIds": [
+        "raw-sienna",
+        "english-red",
+        "peacock-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-132",
+      "volume": 1,
+      "number": 132,
+      "colorIds": [
+        "sulpher-yellow",
+        "golden-yellow",
+        "citrine"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-133",
+      "volume": 1,
+      "number": 133,
+      "colorIds": [
+        "vandyke-red",
+        "citrine",
+        "sea-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-134",
+      "volume": 1,
+      "number": 134,
+      "colorIds": [
+        "eosine-pink",
+        "light-mauve",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-135",
+      "volume": 1,
+      "number": 135,
+      "colorIds": [
+        "sulpher-yellow",
+        "cossack-green",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-136",
+      "volume": 1,
+      "number": 136,
+      "colorIds": [
+        "scarlet",
+        "dull-viridian-green",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-137",
+      "volume": 1,
+      "number": 137,
+      "colorIds": [
+        "etruscan-red",
+        "cinnamon-buff",
+        "pistachio-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-138",
+      "volume": 1,
+      "number": 138,
+      "colorIds": [
+        "golden-yellow",
+        "lemon-yellow",
+        "venice-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-139",
+      "volume": 1,
+      "number": 139,
+      "colorIds": [
+        "salvia-blue",
+        "deep-indigo",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-140",
+      "volume": 1,
+      "number": 140,
+      "colorIds": [
+        "golden-yellow",
+        "antwarp-blue",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-141",
+      "volume": 1,
+      "number": 141,
+      "colorIds": [
+        "orange",
+        "yellow-green",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-142",
+      "volume": 1,
+      "number": 142,
+      "colorIds": [
+        "hydrangea-red",
+        "sulphine-yellow",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-143",
+      "volume": 1,
+      "number": 143,
+      "colorIds": [
+        "blue",
+        "lilac",
+        "warm-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-144",
+      "volume": 1,
+      "number": 144,
+      "colorIds": [
+        "rosolanc-purple",
+        "orange",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-145",
+      "volume": 1,
+      "number": 145,
+      "colorIds": [
+        "brown",
+        "citron-yellow",
+        "dull-violet-black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-146",
+      "volume": 1,
+      "number": 146,
+      "colorIds": [
+        "khaki",
+        "deep-grayish-olive",
+        "diamine-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-147",
+      "volume": 1,
+      "number": 147,
+      "colorIds": [
+        "spinel-red",
+        "vandyke-red",
+        "turquoise-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-148",
+      "volume": 1,
+      "number": 148,
+      "colorIds": [
+        "olive-ocher",
+        "orange-yellow",
+        "cerulian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-149",
+      "volume": 1,
+      "number": 149,
+      "colorIds": [
+        "olive-ocher",
+        "orange",
+        "deep-slate-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-150",
+      "volume": 1,
+      "number": 150,
+      "colorIds": [
+        "seashell-pink",
+        "citron-yellow",
+        "glaucous-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-151",
+      "volume": 1,
+      "number": 151,
+      "colorIds": [
+        "sulpher-yellow",
+        "yellow-orange",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-152",
+      "volume": 1,
+      "number": 152,
+      "colorIds": [
+        "etruscan-red",
+        "hay-s-russet",
+        "light-glaucous-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-153",
+      "volume": 1,
+      "number": 153,
+      "colorIds": [
+        "eosine-pink",
+        "orange-yellow",
+        "citron-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-154",
+      "volume": 1,
+      "number": 154,
+      "colorIds": [
+        "carmine",
+        "yellow",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-155",
+      "volume": 1,
+      "number": 155,
+      "colorIds": [
+        "jasper-red",
+        "benzol-green",
+        "deep-indigo"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-156",
+      "volume": 1,
+      "number": 156,
+      "colorIds": [
+        "olive-ocher",
+        "cobalt-green",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-157",
+      "volume": 1,
+      "number": 157,
+      "colorIds": [
+        "pansy-purple",
+        "olive-ocher",
+        "olympic-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-158",
+      "volume": 1,
+      "number": 158,
+      "colorIds": [
+        "lemon-yellow",
+        "cinnamon-rufous",
+        "night-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-159",
+      "volume": 1,
+      "number": 159,
+      "colorIds": [
+        "khaki",
+        "calamine-blue",
+        "grayish-lavender-a"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-160",
+      "volume": 1,
+      "number": 160,
+      "colorIds": [
+        "sulphine-yellow",
+        "pale-raw-umber",
+        "dark-medici-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-161",
+      "volume": 1,
+      "number": 161,
+      "colorIds": [
+        "brown",
+        "pinkish-cinnamon",
+        "helvetia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-162",
+      "volume": 1,
+      "number": 162,
+      "colorIds": [
+        "old-rose",
+        "rainette-green",
+        "lilac"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-163",
+      "volume": 1,
+      "number": 163,
+      "colorIds": [
+        "apricot-yellow",
+        "turquoise-green",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-164",
+      "volume": 1,
+      "number": 164,
+      "colorIds": [
+        "red-orange",
+        "orange-yellow",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-165",
+      "volume": 1,
+      "number": 165,
+      "colorIds": [
+        "cameo-pink",
+        "spinel-red",
+        "vistoris-lake"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-166",
+      "volume": 1,
+      "number": 166,
+      "colorIds": [
+        "grenadine-pink",
+        "naples-yellow",
+        "deep-slate-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-167",
+      "volume": 1,
+      "number": 167,
+      "colorIds": [
+        "ecru",
+        "pale-king-s-blue",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-168",
+      "volume": 1,
+      "number": 168,
+      "colorIds": [
+        "lemon-yellow",
+        "vandar-poel-s-blue",
+        "veronia-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-169",
+      "volume": 1,
+      "number": 169,
+      "colorIds": [
+        "corinthian-pink",
+        "pale-lemon-yellow",
+        "warm-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-170",
+      "volume": 1,
+      "number": 170,
+      "colorIds": [
+        "rosolanc-purple",
+        "orange-yellow",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-171",
+      "volume": 1,
+      "number": 171,
+      "colorIds": [
+        "pale-burnt-lake",
+        "yellow-orange",
+        "glaucous-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-172",
+      "volume": 1,
+      "number": 172,
+      "colorIds": [
+        "cinnamon-rufous",
+        "antwarp-blue",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-173",
+      "volume": 1,
+      "number": 173,
+      "colorIds": [
+        "lemon-yellow",
+        "madder-brown",
+        "turquoise-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-174",
+      "volume": 1,
+      "number": 174,
+      "colorIds": [
+        "corinthian-pink",
+        "grayish-lavender-b",
+        "taupe-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-175",
+      "volume": 1,
+      "number": 175,
+      "colorIds": [
+        "pinkish-cinnamon",
+        "olive-buff",
+        "blue-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-176",
+      "volume": 1,
+      "number": 176,
+      "colorIds": [
+        "hermosa-pink",
+        "seashell-pink",
+        "calamine-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-177",
+      "volume": 1,
+      "number": 177,
+      "colorIds": [
+        "pale-burnt-lake",
+        "buffy-citrine",
+        "grayish-lavender-a"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-178",
+      "volume": 1,
+      "number": 178,
+      "colorIds": [
+        "ivory-buff",
+        "light-glaucous-blue",
+        "green-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-179",
+      "volume": 1,
+      "number": 179,
+      "colorIds": [
+        "red-orange",
+        "golden-yellow",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-180",
+      "volume": 1,
+      "number": 180,
+      "colorIds": [
+        "cinnamon-buff",
+        "light-mauve",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-181",
+      "volume": 1,
+      "number": 181,
+      "colorIds": [
+        "carmine-red",
+        "violet",
+        "cotinga-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-182",
+      "volume": 1,
+      "number": 182,
+      "colorIds": [
+        "raw-sienna",
+        "vandyke-brown",
+        "deep-indigo"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-183",
+      "volume": 1,
+      "number": 183,
+      "colorIds": [
+        "deep-violet-plumbeous",
+        "veronia-purple",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-184",
+      "volume": 1,
+      "number": 184,
+      "colorIds": [
+        "spinel-red",
+        "ivory-buff",
+        "light-grayish-olive"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-185",
+      "volume": 1,
+      "number": 185,
+      "colorIds": [
+        "light-brown-drab",
+        "etruscan-red",
+        "pale-lemon-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-186",
+      "volume": 1,
+      "number": 186,
+      "colorIds": [
+        "hay-s-russet",
+        "ochraceous-salmon",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-187",
+      "volume": 1,
+      "number": 187,
+      "colorIds": [
+        "helvetia-blue",
+        "grayish-lavender-b",
+        "aconite-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-188",
+      "volume": 1,
+      "number": 188,
+      "colorIds": [
+        "rainette-green",
+        "salvia-blue",
+        "cobalt-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-189",
+      "volume": 1,
+      "number": 189,
+      "colorIds": [
+        "lemon-yellow",
+        "deep-slate-olive",
+        "venice-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-190",
+      "volume": 1,
+      "number": 190,
+      "colorIds": [
+        "ivory-buff",
+        "english-red",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-191",
+      "volume": 1,
+      "number": 191,
+      "colorIds": [
+        "light-brown-drab",
+        "yellow-ocher",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-192",
+      "volume": 1,
+      "number": 192,
+      "colorIds": [
+        "cream-yellow",
+        "vandyke-brown",
+        "deep-violet-plumbeous"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-193",
+      "volume": 1,
+      "number": 193,
+      "colorIds": [
+        "grenadine-pink",
+        "naples-yellow",
+        "light-porcelain-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-194",
+      "volume": 1,
+      "number": 194,
+      "colorIds": [
+        "jasper-red",
+        "seashell-pink",
+        "olympic-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-195",
+      "volume": 1,
+      "number": 195,
+      "colorIds": [
+        "spinel-red",
+        "pale-lemon-yellow",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-196",
+      "volume": 1,
+      "number": 196,
+      "colorIds": [
+        "citron-yellow",
+        "pale-king-s-blue",
+        "blue-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-197",
+      "volume": 1,
+      "number": 197,
+      "colorIds": [
+        "eosine-pink",
+        "dark-soft-violet",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-198",
+      "volume": 1,
+      "number": 198,
+      "colorIds": [
+        "burnt-sienna",
+        "apricot-yellow",
+        "green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-199",
+      "volume": 1,
+      "number": 199,
+      "colorIds": [
+        "ochre-red",
+        "light-brownish-olive",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-200",
+      "volume": 1,
+      "number": 200,
+      "colorIds": [
+        "carmine-red",
+        "olive-buff",
+        "chromium-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-201",
+      "volume": 1,
+      "number": 201,
+      "colorIds": [
+        "grenadine-pink",
+        "olive",
+        "cobalt-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-202",
+      "volume": 1,
+      "number": 202,
+      "colorIds": [
+        "turquoise-green",
+        "cobalt-green",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-203",
+      "volume": 1,
+      "number": 203,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "vinaceous-cinnamon",
+        "lincoln-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-204",
+      "volume": 1,
+      "number": 204,
+      "colorIds": [
+        "rosolanc-purple",
+        "cinnamon-rufous",
+        "light-glaucous-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-205",
+      "volume": 1,
+      "number": 205,
+      "colorIds": [
+        "pale-burnt-lake",
+        "vinaceous-cinnamon",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-206",
+      "volume": 1,
+      "number": 206,
+      "colorIds": [
+        "corinthian-pink",
+        "golden-yellow",
+        "cinnamon-rufous"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-207",
+      "volume": 1,
+      "number": 207,
+      "colorIds": [
+        "sudan-brown",
+        "glaucous-green",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-208",
+      "volume": 1,
+      "number": 208,
+      "colorIds": [
+        "sulpher-yellow",
+        "green-blue",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-209",
+      "volume": 1,
+      "number": 209,
+      "colorIds": [
+        "ivory-buff",
+        "yellow-orange",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-210",
+      "volume": 1,
+      "number": 210,
+      "colorIds": [
+        "cinnamon-buff",
+        "lemon-yellow",
+        "lincoln-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-211",
+      "volume": 1,
+      "number": 211,
+      "colorIds": [
+        "apricot-orange",
+        "olive-yellow",
+        "deep-indigo"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-212",
+      "volume": 1,
+      "number": 212,
+      "colorIds": [
+        "pompeian-red",
+        "orange-citrine",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-213",
+      "volume": 1,
+      "number": 213,
+      "colorIds": [
+        "vinaceous-cinnamon",
+        "apricot-yellow",
+        "pale-king-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-214",
+      "volume": 1,
+      "number": 214,
+      "colorIds": [
+        "ivory-buff",
+        "sudan-brown",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-215",
+      "volume": 1,
+      "number": 215,
+      "colorIds": [
+        "cream-yellow",
+        "blue",
+        "eupatorium-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-216",
+      "volume": 1,
+      "number": 216,
+      "colorIds": [
+        "jasper-red",
+        "green",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-217",
+      "volume": 1,
+      "number": 217,
+      "colorIds": [
+        "pale-burnt-lake",
+        "ochraceous-salmon",
+        "diamine-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-218",
+      "volume": 1,
+      "number": 218,
+      "colorIds": [
+        "helvetia-blue",
+        "grayish-lavender-a",
+        "deep-violet-plumbeous"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-219",
+      "volume": 1,
+      "number": 219,
+      "colorIds": [
+        "jasper-red",
+        "chromium-green",
+        "dusky-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-220",
+      "volume": 1,
+      "number": 220,
+      "colorIds": [
+        "pomegranite-purple",
+        "ochraceous-salmon",
+        "aconite-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-221",
+      "volume": 1,
+      "number": 221,
+      "colorIds": [
+        "carmine-red",
+        "neutral-gray",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-222",
+      "volume": 1,
+      "number": 222,
+      "colorIds": [
+        "yellow-ocher",
+        "yellow-orange",
+        "orange-rufous"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-223",
+      "volume": 1,
+      "number": 223,
+      "colorIds": [
+        "light-brown-drab",
+        "ochraceous-salmon",
+        "turquoise-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-224",
+      "volume": 1,
+      "number": 224,
+      "colorIds": [
+        "spinel-red",
+        "dark-medici-blue",
+        "taupe-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-225",
+      "volume": 1,
+      "number": 225,
+      "colorIds": [
+        "carmine",
+        "dusky-green",
+        "dark-slate-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-226",
+      "volume": 1,
+      "number": 226,
+      "colorIds": [
+        "vistoris-lake",
+        "cream-yellow",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-227",
+      "volume": 1,
+      "number": 227,
+      "colorIds": [
+        "hermosa-pink",
+        "light-glaucous-blue",
+        "cerulian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-228",
+      "volume": 1,
+      "number": 228,
+      "colorIds": [
+        "carmine-red",
+        "pale-lemon-yellow",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-229",
+      "volume": 1,
+      "number": 229,
+      "colorIds": [
+        "golden-yellow",
+        "deep-slate-olive",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-230",
+      "volume": 1,
+      "number": 230,
+      "colorIds": [
+        "grenadine-pink",
+        "turquoise-green",
+        "cobalt-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-231",
+      "volume": 1,
+      "number": 231,
+      "colorIds": [
+        "cameo-pink",
+        "hay-s-russet",
+        "olympic-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-232",
+      "volume": 1,
+      "number": 232,
+      "colorIds": [
+        "carmine",
+        "pinkish-cinnamon",
+        "deep-indigo"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-233",
+      "volume": 1,
+      "number": 233,
+      "colorIds": [
+        "carmine-red",
+        "buffy-citrine",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-234",
+      "volume": 1,
+      "number": 234,
+      "colorIds": [
+        "cinnamon-buff",
+        "pale-raw-umber",
+        "pale-king-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-235",
+      "volume": 1,
+      "number": 235,
+      "colorIds": [
+        "ivory-buff",
+        "yellow-orange",
+        "grayish-lavender-b"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-236",
+      "volume": 1,
+      "number": 236,
+      "colorIds": [
+        "khaki",
+        "deep-lyons-blue",
+        "purple-drab"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-237",
+      "volume": 1,
+      "number": 237,
+      "colorIds": [
+        "carmine-red",
+        "madder-brown",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-238",
+      "volume": 1,
+      "number": 238,
+      "colorIds": [
+        "ochraceous-salmon",
+        "cotinga-purple",
+        "warm-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-239",
+      "volume": 1,
+      "number": 239,
+      "colorIds": [
+        "light-brown-drab",
+        "pyrite-yellow",
+        "glaucous-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-240",
+      "volume": 1,
+      "number": 240,
+      "colorIds": [
+        "fresh-color",
+        "yellow",
+        "cerulian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-241",
+      "volume": 1,
+      "number": 241,
+      "colorIds": [
+        "red-orange",
+        "pale-lemon-yellow",
+        "isabella-color",
+        "dark-medici-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-242",
+      "volume": 1,
+      "number": 242,
+      "colorIds": [
+        "eosine-pink",
+        "burnt-sienna",
+        "diamine-green",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-243",
+      "volume": 1,
+      "number": 243,
+      "colorIds": [
+        "raw-sienna",
+        "ivory-buff",
+        "olive-green",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-244",
+      "volume": 1,
+      "number": 244,
+      "colorIds": [
+        "light-brown-drab",
+        "vinaceous-tawny",
+        "andover-green",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-245",
+      "volume": 1,
+      "number": 245,
+      "colorIds": [
+        "carmine-red",
+        "oil-green",
+        "dark-tyrian-blue",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-246",
+      "volume": 1,
+      "number": 246,
+      "colorIds": [
+        "corinthian-pink",
+        "brick-red",
+        "sulpher-yellow",
+        "cinnamon-buff"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-247",
+      "volume": 1,
+      "number": 247,
+      "colorIds": [
+        "raw-sienna",
+        "apricot-yellow",
+        "benzol-green",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-248",
+      "volume": 1,
+      "number": 248,
+      "colorIds": [
+        "eosine-pink",
+        "khaki",
+        "grayish-lavender-a",
+        "dark-slate-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-249",
+      "volume": 1,
+      "number": 249,
+      "colorIds": [
+        "hay-s-russet",
+        "ecru",
+        "olive-ocher",
+        "dark-medici-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-250",
+      "volume": 1,
+      "number": 250,
+      "colorIds": [
+        "pyrite-yellow",
+        "peach-red",
+        "sea-green",
+        "nile-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-251",
+      "volume": 1,
+      "number": 251,
+      "colorIds": [
+        "red",
+        "yellow",
+        "diamine-green",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-252",
+      "volume": 1,
+      "number": 252,
+      "colorIds": [
+        "eugenia-red-b",
+        "raw-sienna",
+        "sulphine-yellow",
+        "green-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-253",
+      "volume": 1,
+      "number": 253,
+      "colorIds": [
+        "lemon-yellow",
+        "apricot-orange",
+        "cotinga-purple",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-254",
+      "volume": 1,
+      "number": 254,
+      "colorIds": [
+        "corinthian-pink",
+        "sulpher-yellow",
+        "olive",
+        "laelia-pink"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-255",
+      "volume": 1,
+      "number": 255,
+      "colorIds": [
+        "raw-sienna",
+        "pyrite-yellow",
+        "calamine-blue",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-256",
+      "volume": 1,
+      "number": 256,
+      "colorIds": [
+        "vinaceous-cinnamon",
+        "orange",
+        "dull-viridian-green",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-257",
+      "volume": 1,
+      "number": 257,
+      "colorIds": [
+        "spectrum-red",
+        "orange-yellow",
+        "blue",
+        "aconite-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-258",
+      "volume": 1,
+      "number": 258,
+      "colorIds": [
+        "pale-burnt-lake",
+        "pinkish-cinnamon",
+        "olive",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-259",
+      "volume": 1,
+      "number": 259,
+      "colorIds": [
+        "lemon-yellow",
+        "green-blue",
+        "helvetia-blue",
+        "warm-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-260",
+      "volume": 1,
+      "number": 260,
+      "colorIds": [
+        "old-rose",
+        "vinaceous-cinnamon",
+        "glaucous-green",
+        "sea-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-261",
+      "volume": 1,
+      "number": 261,
+      "colorIds": [
+        "red",
+        "pale-lemon-yellow",
+        "calamine-blue",
+        "warm-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-262",
+      "volume": 1,
+      "number": 262,
+      "colorIds": [
+        "eugenia-red-b",
+        "ivory-buff",
+        "citrine",
+        "cossack-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-263",
+      "volume": 1,
+      "number": 263,
+      "colorIds": [
+        "burnt-sienna",
+        "pinkish-cinnamon",
+        "turquoise-green",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-264",
+      "volume": 1,
+      "number": 264,
+      "colorIds": [
+        "corinthian-pink",
+        "red-orange",
+        "dark-greenish-glaucous",
+        "cerulian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-265",
+      "volume": 1,
+      "number": 265,
+      "colorIds": [
+        "old-rose",
+        "apricot-yellow",
+        "olive-yellow",
+        "dull-violet-black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-266",
+      "volume": 1,
+      "number": 266,
+      "colorIds": [
+        "spectrum-red",
+        "ivory-buff",
+        "rainette-green",
+        "benzol-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-267",
+      "volume": 1,
+      "number": 267,
+      "colorIds": [
+        "cream-yellow",
+        "yellow-orange",
+        "benzol-green",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-268",
+      "volume": 1,
+      "number": 268,
+      "colorIds": [
+        "light-brown-drab",
+        "raw-sienna",
+        "deep-slate-olive",
+        "nile-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-269",
+      "volume": 1,
+      "number": 269,
+      "colorIds": [
+        "raw-sienna",
+        "pale-burnt-lake",
+        "aconite-violet",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-270",
+      "volume": 1,
+      "number": 270,
+      "colorIds": [
+        "eugenia-red-b",
+        "sulpher-yellow",
+        "olive-green",
+        "cossack-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-271",
+      "volume": 1,
+      "number": 271,
+      "colorIds": [
+        "pomegranite-purple",
+        "cobalt-green",
+        "green-blue",
+        "deep-slate-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-272",
+      "volume": 1,
+      "number": 272,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "orange",
+        "turquoise-green",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-273",
+      "volume": 1,
+      "number": 273,
+      "colorIds": [
+        "hermosa-pink",
+        "pansy-purple",
+        "sudan-brown",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-274",
+      "volume": 1,
+      "number": 274,
+      "colorIds": [
+        "peach-red",
+        "dark-citrine",
+        "olympic-blue",
+        "light-mauve"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-275",
+      "volume": 1,
+      "number": 275,
+      "colorIds": [
+        "etruscan-red",
+        "ecru",
+        "madder-brown",
+        "taupe-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-276",
+      "volume": 1,
+      "number": 276,
+      "colorIds": [
+        "eosine-pink",
+        "seashell-pink",
+        "yellow-green",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-277",
+      "volume": 1,
+      "number": 277,
+      "colorIds": [
+        "spinel-red",
+        "rosolanc-purple",
+        "olive",
+        "dull-violet-black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-278",
+      "volume": 1,
+      "number": 278,
+      "colorIds": [
+        "cream-yellow",
+        "olive-ocher",
+        "cossack-green",
+        "dusky-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-279",
+      "volume": 1,
+      "number": 279,
+      "colorIds": [
+        "raw-sienna",
+        "vinaceous-cinnamon",
+        "ecru",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-280",
+      "volume": 1,
+      "number": 280,
+      "colorIds": [
+        "eugenia-red-b",
+        "lincoln-green",
+        "laelia-pink",
+        "taupe-brown"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-281",
+      "volume": 1,
+      "number": 281,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "benzol-green",
+        "cobalt-green",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-282",
+      "volume": 1,
+      "number": 282,
+      "colorIds": [
+        "eugenia-red-b",
+        "maple",
+        "cobalt-green",
+        "lilac"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-283",
+      "volume": 1,
+      "number": 283,
+      "colorIds": [
+        "ochre-red",
+        "pale-burnt-lake",
+        "chromium-green",
+        "venice-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-284",
+      "volume": 1,
+      "number": 284,
+      "colorIds": [
+        "eugenia-red-a",
+        "apricot-yellow",
+        "sea-green",
+        "dusky-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-285",
+      "volume": 1,
+      "number": 285,
+      "colorIds": [
+        "light-brown-drab",
+        "burnt-sienna",
+        "peach-red",
+        "turquoise-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-286",
+      "volume": 1,
+      "number": 286,
+      "colorIds": [
+        "burnt-sienna",
+        "orange-yellow",
+        "peacock-blue",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-287",
+      "volume": 1,
+      "number": 287,
+      "colorIds": [
+        "eosine-pink",
+        "pyrite-yellow",
+        "pale-king-s-blue",
+        "calamine-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-288",
+      "volume": 1,
+      "number": 288,
+      "colorIds": [
+        "yellow-orange",
+        "sepia",
+        "taupe-brown",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-289",
+      "volume": 1,
+      "number": 289,
+      "colorIds": [
+        "lemon-yellow",
+        "light-green-yellow",
+        "violet-blue",
+        "dull-violet-black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-290",
+      "volume": 1,
+      "number": 290,
+      "colorIds": [
+        "vistoris-lake",
+        "pale-lemon-yellow",
+        "lincoln-green",
+        "cobalt-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-291",
+      "volume": 1,
+      "number": 291,
+      "colorIds": [
+        "light-green-yellow",
+        "sea-green",
+        "cobalt-green",
+        "calamine-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-292",
+      "volume": 1,
+      "number": 292,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "pinkish-cinnamon",
+        "isabella-color",
+        "ecru"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-293",
+      "volume": 1,
+      "number": 293,
+      "colorIds": [
+        "raw-sienna",
+        "turquoise-green",
+        "artemesia-green",
+        "green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-294",
+      "volume": 1,
+      "number": 294,
+      "colorIds": [
+        "sulpher-yellow",
+        "cream-yellow",
+        "cossack-green",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-295",
+      "volume": 1,
+      "number": 295,
+      "colorIds": [
+        "cream-yellow",
+        "yellow",
+        "blue",
+        "dull-violet-black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-296",
+      "volume": 1,
+      "number": 296,
+      "colorIds": [
+        "sulpher-yellow",
+        "ochraceous-salmon",
+        "pale-raw-umber",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-297",
+      "volume": 1,
+      "number": 297,
+      "colorIds": [
+        "burnt-sienna",
+        "yellow-orange",
+        "olive-green",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-298",
+      "volume": 1,
+      "number": 298,
+      "colorIds": [
+        "raw-sienna",
+        "lemon-yellow",
+        "peach-red",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-299",
+      "volume": 1,
+      "number": 299,
+      "colorIds": [
+        "indian-lake",
+        "vinaceous-cinnamon",
+        "oil-green",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-300",
+      "volume": 1,
+      "number": 300,
+      "colorIds": [
+        "grenadine-pink",
+        "cream-yellow",
+        "turquoise-green",
+        "calamine-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-301",
+      "volume": 1,
+      "number": 301,
+      "colorIds": [
+        "spectrum-red",
+        "ivory-buff",
+        "rainette-green",
+        "aconite-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-302",
+      "volume": 1,
+      "number": 302,
+      "colorIds": [
+        "cream-yellow",
+        "ecru",
+        "nile-blue",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-303",
+      "volume": 1,
+      "number": 303,
+      "colorIds": [
+        "naples-yellow",
+        "peach-red",
+        "deep-slate-olive",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-304",
+      "volume": 1,
+      "number": 304,
+      "colorIds": [
+        "hay-s-russet",
+        "cream-yellow",
+        "dark-citrine",
+        "benzol-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-305",
+      "volume": 1,
+      "number": 305,
+      "colorIds": [
+        "pinkish-cinnamon",
+        "apricot-yellow",
+        "citron-yellow",
+        "turquoise-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-306",
+      "volume": 1,
+      "number": 306,
+      "colorIds": [
+        "lemon-yellow",
+        "benzol-green",
+        "dull-viridian-green",
+        "nile-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-307",
+      "volume": 1,
+      "number": 307,
+      "colorIds": [
+        "carmine",
+        "grayish-lavender-a",
+        "aconite-violet",
+        "cotinga-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-308",
+      "volume": 1,
+      "number": 308,
+      "colorIds": [
+        "fawn",
+        "scarlet",
+        "english-red",
+        "cobalt-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-309",
+      "volume": 1,
+      "number": 309,
+      "colorIds": [
+        "golden-yellow",
+        "apricot-orange",
+        "violet-blue",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-310",
+      "volume": 1,
+      "number": 310,
+      "colorIds": [
+        "sulpher-yellow",
+        "pinkish-cinnamon",
+        "olive",
+        "deep-slate-olive"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-311",
+      "volume": 1,
+      "number": 311,
+      "colorIds": [
+        "pompeian-red",
+        "cream-yellow",
+        "dark-greenish-glaucous",
+        "light-green-yellow"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-312",
+      "volume": 1,
+      "number": 312,
+      "colorIds": [
+        "burnt-sienna",
+        "yellow-orange",
+        "artemesia-green",
+        "helvetia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-313",
+      "volume": 1,
+      "number": 313,
+      "colorIds": [
+        "carmine",
+        "yellow",
+        "diamine-green",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-314",
+      "volume": 1,
+      "number": 314,
+      "colorIds": [
+        "eosine-pink",
+        "hay-s-russet",
+        "deep-lyons-blue",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-315",
+      "volume": 1,
+      "number": 315,
+      "colorIds": [
+        "grenadine-pink",
+        "sulpher-yellow",
+        "golden-yellow",
+        "eupatorium-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-316",
+      "volume": 1,
+      "number": 316,
+      "colorIds": [
+        "vandyke-red",
+        "dull-viridian-green",
+        "violet",
+        "red-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-317",
+      "volume": 1,
+      "number": 317,
+      "colorIds": [
+        "light-pinkish-cinnamon",
+        "ecru",
+        "lemon-yellow",
+        "turquoise-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-318",
+      "volume": 1,
+      "number": 318,
+      "colorIds": [
+        "light-brownish-olive",
+        "blackish-olive",
+        "dusky-green",
+        "deep-slate-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-319",
+      "volume": 1,
+      "number": 319,
+      "colorIds": [
+        "raw-sienna",
+        "apricot-yellow",
+        "yellow-orange",
+        "cossack-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-320",
+      "volume": 1,
+      "number": 320,
+      "colorIds": [
+        "coral-red",
+        "sulpher-yellow",
+        "oil-green",
+        "light-glaucous-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-321",
+      "volume": 1,
+      "number": 321,
+      "colorIds": [
+        "light-brown-drab",
+        "sulpher-yellow",
+        "deep-slate-olive",
+        "salvia-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-322",
+      "volume": 1,
+      "number": 322,
+      "colorIds": [
+        "spectrum-red",
+        "brick-red",
+        "eupatorium-purple",
+        "blue-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-323",
+      "volume": 1,
+      "number": 323,
+      "colorIds": [
+        "cinnamon-buff",
+        "citron-yellow",
+        "madder-brown",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-324",
+      "volume": 1,
+      "number": 324,
+      "colorIds": [
+        "pompeian-red",
+        "olympic-blue",
+        "aconite-violet",
+        "neutral-gray"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-325",
+      "volume": 1,
+      "number": 325,
+      "colorIds": [
+        "eugenia-red-b",
+        "naples-yellow",
+        "yellow-ocher",
+        "deep-slate-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-326",
+      "volume": 1,
+      "number": 326,
+      "colorIds": [
+        "sulpher-yellow",
+        "peach-red",
+        "yellow-green",
+        "night-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-327",
+      "volume": 1,
+      "number": 327,
+      "colorIds": [
+        "eosine-pink",
+        "raw-sienna",
+        "ecru",
+        "grayish-lavender-b"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-328",
+      "volume": 1,
+      "number": 328,
+      "colorIds": [
+        "brick-red",
+        "apricot-orange",
+        "vandyke-brown",
+        "light-porcelain-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-329",
+      "volume": 1,
+      "number": 329,
+      "colorIds": [
+        "cream-yellow",
+        "grayish-lavender-b",
+        "cotinga-purple",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-330",
+      "volume": 1,
+      "number": 330,
+      "colorIds": [
+        "olive-buff",
+        "nile-blue",
+        "salvia-blue",
+        "green-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-331",
+      "volume": 1,
+      "number": 331,
+      "colorIds": [
+        "indian-lake",
+        "dull-violet-black",
+        "light-mauve",
+        "violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-332",
+      "volume": 1,
+      "number": 332,
+      "colorIds": [
+        "coral-red",
+        "scarlet",
+        "deep-slate-olive",
+        "dusky-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-333",
+      "volume": 1,
+      "number": 333,
+      "colorIds": [
+        "burnt-sienna",
+        "lemon-yellow",
+        "cobalt-green",
+        "blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-334",
+      "volume": 1,
+      "number": 334,
+      "colorIds": [
+        "seashell-pink",
+        "olive",
+        "yellow-green",
+        "antwarp-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-335",
+      "volume": 1,
+      "number": 335,
+      "colorIds": [
+        "vandyke-red",
+        "yellow-orange",
+        "violet",
+        "slate-color"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-336",
+      "volume": 1,
+      "number": 336,
+      "colorIds": [
+        "eosine-pink",
+        "hay-s-russet",
+        "pale-lemon-yellow",
+        "blackish-olive"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-337",
+      "volume": 1,
+      "number": 337,
+      "colorIds": [
+        "vistoris-lake",
+        "laelia-pink",
+        "violet-carmine",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-338",
+      "volume": 1,
+      "number": 338,
+      "colorIds": [
+        "carmine-red",
+        "orange-yellow",
+        "dusky-green",
+        "grayish-lavender-b"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-339",
+      "volume": 1,
+      "number": 339,
+      "colorIds": [
+        "ochraceous-salmon",
+        "english-red",
+        "light-glaucous-blue",
+        "violet-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-340",
+      "volume": 1,
+      "number": 340,
+      "colorIds": [
+        "peach-red",
+        "sea-green",
+        "neutral-gray",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-341",
+      "volume": 1,
+      "number": 341,
+      "colorIds": [
+        "grenadine-pink",
+        "cossack-green",
+        "deep-slate-olive",
+        "light-glaucous-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-342",
+      "volume": 1,
+      "number": 342,
+      "colorIds": [
+        "corinthian-pink",
+        "cream-yellow",
+        "orange-citrine",
+        "deep-slate-olive"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-343",
+      "volume": 1,
+      "number": 343,
+      "colorIds": [
+        "burnt-sienna",
+        "ivory-buff",
+        "deep-grayish-olive",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-344",
+      "volume": 1,
+      "number": 344,
+      "colorIds": [
+        "cinnamon-buff",
+        "deep-lyons-blue",
+        "aconite-violet",
+        "black"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-345",
+      "volume": 1,
+      "number": 345,
+      "colorIds": [
+        "hay-s-russet",
+        "nile-blue",
+        "venice-green",
+        "blue-violet"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-346",
+      "volume": 1,
+      "number": 346,
+      "colorIds": [
+        "rosolanc-purple",
+        "turquoise-green",
+        "light-green-yellow",
+        "andover-green"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-347",
+      "volume": 1,
+      "number": 347,
+      "colorIds": [
+        "olive-yellow",
+        "sea-green",
+        "helvetia-blue",
+        "lilac"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v1-348",
+      "volume": 1,
+      "number": 348,
+      "colorIds": [
+        "olive-buff",
+        "cossack-green",
+        "deep-slate-olive",
+        "cotinga-purple"
+      ],
+      "sourceId": "mattdesl"
+    },
+    {
+      "id": "v2-001",
+      "volume": 2,
+      "number": 1,
+      "colorIds": [
+        "white",
+        "sulphur-yellow",
+        "seashell-pink",
+        "glaucous-green",
+        "grayish-lavender-b"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-002",
+      "volume": 2,
+      "number": 2,
+      "colorIds": [
+        "naples-yellow",
+        "light-pinkish-cinnamon",
+        "pinkish-cinnamon",
+        "citron-yellow",
+        "citrine",
+        "raw-sienna",
+        "pale-burnt-lake"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-003",
+      "volume": 2,
+      "number": 3,
+      "colorIds": [
+        "ecru",
+        "dark-citrine",
+        "light-porcelain-green",
+        "deep-violet-plumbeous",
+        "vandyke-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-004",
+      "volume": 2,
+      "number": 4,
+      "colorIds": [
+        "light-pinkish-cinnamon",
+        "hermosa-pink",
+        "yellow-orange",
+        "old-rose",
+        "burnt-sienna",
+        "red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-005",
+      "volume": 2,
+      "number": 5,
+      "colorIds": [
+        "ivory-buff",
+        "cobalt-green",
+        "warm-gray",
+        "eupatorium-purple",
+        "spectrum-red",
+        "dark-tyrian-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-006",
+      "volume": 2,
+      "number": 6,
+      "colorIds": [
+        "apricot-yellow",
+        "grayish-lavender-b",
+        "maple",
+        "old-rose",
+        "deep-violet-plumbeous",
+        "violet-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-007",
+      "volume": 2,
+      "number": 7,
+      "colorIds": [
+        "white",
+        "light-glaucous-blue",
+        "venice-green",
+        "citrine",
+        "red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-008",
+      "volume": 2,
+      "number": 8,
+      "colorIds": [
+        "cinnamon-buff",
+        "sulphine-yellow",
+        "lilac",
+        "krongbergs-green",
+        "diamine-green",
+        "dull-violet-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-009",
+      "volume": 2,
+      "number": 9,
+      "colorIds": [
+        "yellow-ocher",
+        "khaki",
+        "english-red",
+        "dull-citrine",
+        "andover-green",
+        "deep-indigo"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-010",
+      "volume": 2,
+      "number": 10,
+      "colorIds": [
+        "white",
+        "mineral-gray",
+        "maple",
+        "eugenia-red-b",
+        "vistoris-lake"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-011",
+      "volume": 2,
+      "number": 11,
+      "colorIds": [
+        "fawn",
+        "spinel-red",
+        "aconite-violet",
+        "spectrum-red",
+        "indian-lake",
+        "red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-012",
+      "volume": 2,
+      "number": 12,
+      "colorIds": [
+        "ivory-buff",
+        "neutral-gray",
+        "khaki",
+        "dull-blue-violet",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-013",
+      "volume": 2,
+      "number": 13,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "nile-blue",
+        "peach-red",
+        "green",
+        "deep-indigo"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-014",
+      "volume": 2,
+      "number": 14,
+      "colorIds": [
+        "seashell-pink",
+        "nile-blue",
+        "pinkish-cinnamon",
+        "cameo-pink",
+        "buffy-citrine",
+        "carmine-red",
+        "deep-slate-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-015",
+      "volume": 2,
+      "number": 15,
+      "colorIds": [
+        "olive-buff",
+        "fresh-color",
+        "sudan-brown",
+        "scarlet",
+        "cotinga-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-016",
+      "volume": 2,
+      "number": 16,
+      "colorIds": [
+        "light-glaucous-blue",
+        "grayish-lavender-a",
+        "grayish-lavender-b",
+        "cerulian-blue",
+        "dark-soft-violet",
+        "helvetia-blue",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-017",
+      "volume": 2,
+      "number": 17,
+      "colorIds": [
+        "light-glaucous-blue",
+        "vinaceous-cinnamon",
+        "ochre-red",
+        "dark-medici-blue",
+        "deep-indigo"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-018",
+      "volume": 2,
+      "number": 18,
+      "colorIds": [
+        "olive-ocher",
+        "golden-yellow",
+        "eugenia-red-a",
+        "chromium-green",
+        "light-brownish-olive",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-019",
+      "volume": 2,
+      "number": 19,
+      "colorIds": [
+        "ivory-buff",
+        "grayish-lavender-a",
+        "deep-lyons-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-020",
+      "volume": 2,
+      "number": 20,
+      "colorIds": [
+        "yellow",
+        "turquoise-green",
+        "hermosa-pink",
+        "cobalt-green",
+        "calamine-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-021",
+      "volume": 2,
+      "number": 21,
+      "colorIds": [
+        "sulphur-yellow",
+        "spinel-red",
+        "raw-sienna",
+        "helvetia-blue",
+        "dull-violet-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-022",
+      "volume": 2,
+      "number": 22,
+      "colorIds": [
+        "cinnamon-buff",
+        "cobalt-green",
+        "laelia-pink",
+        "green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-023",
+      "volume": 2,
+      "number": 23,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "naples-yellow",
+        "light-glaucous-blue",
+        "neutral-gray",
+        "citron-yellow",
+        "grayish-lavender-b"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-024",
+      "volume": 2,
+      "number": 24,
+      "colorIds": [
+        "fawn",
+        "eosine-pink",
+        "olive-yellow",
+        "eugenia-red-a",
+        "olympic-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-025",
+      "volume": 2,
+      "number": 25,
+      "colorIds": [
+        "seashell-pink",
+        "eosine-pink",
+        "olympic-blue",
+        "purple-drab"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-026",
+      "volume": 2,
+      "number": 26,
+      "colorIds": [
+        "sulphur-yellow",
+        "cinnamon-buff",
+        "pyrite-yellow",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-027",
+      "volume": 2,
+      "number": 27,
+      "colorIds": [
+        "corinthian-pink",
+        "fawn",
+        "grenadine-pink",
+        "pansy-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-028",
+      "volume": 2,
+      "number": 28,
+      "colorIds": [
+        "fawn",
+        "eosine-pink",
+        "vistoris-lake"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-029",
+      "volume": 2,
+      "number": 29,
+      "colorIds": [
+        "naples-yellow",
+        "pyrite-yellow",
+        "citrine",
+        "artemesia-green",
+        "blackish-olive"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-030",
+      "volume": 2,
+      "number": 30,
+      "colorIds": [
+        "cameo-pink",
+        "artemesia-green",
+        "english-red",
+        "orange-citrine",
+        "blackish-olive",
+        "deep-slate-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-031",
+      "volume": 2,
+      "number": 31,
+      "colorIds": [
+        "pale-king-s-blue-2",
+        "orange",
+        "artemesia-green",
+        "deep-slate-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-032",
+      "volume": 2,
+      "number": 32,
+      "colorIds": [
+        "pale-king-s-blue-2",
+        "khaki",
+        "dull-violet-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-033",
+      "volume": 2,
+      "number": 33,
+      "colorIds": [
+        "white",
+        "lemon-yellow",
+        "olive-buff",
+        "vinaceous-cinnamon",
+        "salvia-blue",
+        "laelia-pink"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-034",
+      "volume": 2,
+      "number": 34,
+      "colorIds": [
+        "seashell-pink",
+        "night-green",
+        "vistoris-lake",
+        "vandyke-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-035",
+      "volume": 2,
+      "number": 35,
+      "colorIds": [
+        "fresh-color",
+        "light-brown-drab",
+        "dull-viridian-green",
+        "pomegranite-purple",
+        "dark-perilla-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-036",
+      "volume": 2,
+      "number": 36,
+      "colorIds": [
+        "pale-purplish-vinaceous",
+        "calamine-blue",
+        "citron-yellow",
+        "old-rose",
+        "deep-slate-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-037",
+      "volume": 2,
+      "number": 37,
+      "colorIds": [
+        "neutral-gray",
+        "helvetia-blue",
+        "violet-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-038",
+      "volume": 2,
+      "number": 38,
+      "colorIds": [
+        "white",
+        "eosine-pink",
+        "spectrum-red",
+        "deep-indigo"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-039",
+      "volume": 2,
+      "number": 39,
+      "colorIds": [
+        "grayish-lavender-b",
+        "lilac",
+        "orange-rufous",
+        "blue-violet",
+        "violet-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-040",
+      "volume": 2,
+      "number": 40,
+      "colorIds": [
+        "sulphur-yellow",
+        "grape-green",
+        "sea-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-041",
+      "volume": 2,
+      "number": 41,
+      "colorIds": [
+        "white",
+        "cobalt-green",
+        "peacock-blue",
+        "sepia"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-042",
+      "volume": 2,
+      "number": 42,
+      "colorIds": [
+        "cream-yellow",
+        "orange",
+        "oil-green",
+        "lincoln-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-043",
+      "volume": 2,
+      "number": 43,
+      "colorIds": [
+        "pale-cinnamon-pink",
+        "ivory-buff",
+        "night-green",
+        "laelia-pink"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-044",
+      "volume": 2,
+      "number": 44,
+      "colorIds": [
+        "sea-foam-yellow",
+        "light-glaucous-blue",
+        "mineral-gray",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-045",
+      "volume": 2,
+      "number": 45,
+      "colorIds": [
+        "cinnamon-buff",
+        "peacock-blue",
+        "rosolanc-purple",
+        "dull-purplish-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-046",
+      "volume": 2,
+      "number": 46,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "pale-ecru-drab",
+        "grape-green",
+        "pale-methyl-blue",
+        "violet-ultramarine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-047",
+      "volume": 2,
+      "number": 47,
+      "colorIds": [
+        "naples-yellow",
+        "coral-red",
+        "pale-methyl-blue",
+        "eugenia-red-b",
+        "dull-purplish-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-048",
+      "volume": 2,
+      "number": 48,
+      "colorIds": [
+        "white",
+        "corinthian-pink",
+        "neutral-gray",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-049",
+      "volume": 2,
+      "number": 49,
+      "colorIds": [
+        "hermosa-pink",
+        "pale-ecru-drab",
+        "hydrangea-red",
+        "cotinga-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-050",
+      "volume": 2,
+      "number": 50,
+      "colorIds": [
+        "olive-buff",
+        "dull-citrine",
+        "light-brownish-olive"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-051",
+      "volume": 2,
+      "number": 51,
+      "colorIds": [
+        "white",
+        "dark-greenish-glaucous",
+        "pistachio-green",
+        "blue",
+        "dusky-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-052",
+      "volume": 2,
+      "number": 52,
+      "colorIds": [
+        "sulphine-yellow",
+        "blue",
+        "dull-violet-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-053",
+      "volume": 2,
+      "number": 53,
+      "colorIds": [
+        "yellow-green",
+        "spectrum-red",
+        "cossack-green",
+        "dusky-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-054",
+      "volume": 2,
+      "number": 54,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "light-glaucous-blue",
+        "light-brown-drab",
+        "buffy-citrine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-055",
+      "volume": 2,
+      "number": 55,
+      "colorIds": [
+        "sulphur-yellow",
+        "benzol-green",
+        "taupe-brown",
+        "vandyke-red",
+        "dull-violet-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-056",
+      "volume": 2,
+      "number": 56,
+      "colorIds": [
+        "ivory-buff",
+        "fresh-color",
+        "raw-sienna"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-057",
+      "volume": 2,
+      "number": 57,
+      "colorIds": [
+        "red-orange",
+        "orange-citrine",
+        "light-brownish-olive",
+        "deep-slate-olive"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-058",
+      "volume": 2,
+      "number": 58,
+      "colorIds": [
+        "light-glaucous-blue",
+        "vistoris-lake",
+        "deep-indigo"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-059",
+      "volume": 2,
+      "number": 59,
+      "colorIds": [
+        "light-pinkish-cinnamon",
+        "glaucous-green",
+        "citron-yellow",
+        "mars-brown-tobacco"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-060",
+      "volume": 2,
+      "number": 60,
+      "colorIds": [
+        "seashell-pink",
+        "fawn",
+        "ochraceous-salmon",
+        "apricot-orange",
+        "cinnamon-rufous",
+        "indian-lake"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-061",
+      "volume": 2,
+      "number": 61,
+      "colorIds": [
+        "orange-rufous",
+        "andover-green",
+        "deep-indigo"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-062",
+      "volume": 2,
+      "number": 62,
+      "colorIds": [
+        "cameo-pink",
+        "grayish-lavender-a",
+        "lilac",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-063",
+      "volume": 2,
+      "number": 63,
+      "colorIds": [
+        "sulphur-yellow",
+        "pale-king-s-blue-2",
+        "glaucous-green",
+        "pomegranite-purple",
+        "slate-color"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-064",
+      "volume": 2,
+      "number": 64,
+      "colorIds": [
+        "ivory-buff",
+        "red-orange",
+        "dark-medici-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-065",
+      "volume": 2,
+      "number": 65,
+      "colorIds": [
+        "dull-viridian-green",
+        "etruscan-red",
+        "lincoln-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-066",
+      "volume": 2,
+      "number": 66,
+      "colorIds": [
+        "yellow",
+        "pale-lemon-yellow",
+        "corinthian-pink",
+        "pinkish-cinnamon",
+        "spectrum-red",
+        "helvetia-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-067",
+      "volume": 2,
+      "number": 67,
+      "colorIds": [
+        "yellow-ocher",
+        "artemesia-green",
+        "orange-rufous",
+        "dusky-green",
+        "dull-violet-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-068",
+      "volume": 2,
+      "number": 68,
+      "colorIds": [
+        "sulphur-yellow",
+        "dark-greenish-glaucous",
+        "olive-ocher",
+        "indian-lake",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-069",
+      "volume": 2,
+      "number": 69,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "jasper-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-070",
+      "volume": 2,
+      "number": 70,
+      "colorIds": [
+        "pale-turtle-green",
+        "sulphine-yellow",
+        "cossack-green",
+        "dull-violet-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-071",
+      "volume": 2,
+      "number": 71,
+      "colorIds": [
+        "pale-king-s-blue-2",
+        "fawn",
+        "mineral-gray",
+        "sudan-brown",
+        "slate-color"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-072",
+      "volume": 2,
+      "number": 72,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "neutral-gray",
+        "salvia-blue",
+        "jasper-red",
+        "sepia"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-073",
+      "volume": 2,
+      "number": 73,
+      "colorIds": [
+        "cobalt-green",
+        "yellow-ocher",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-074",
+      "volume": 2,
+      "number": 74,
+      "colorIds": [
+        "light-pinkish-cinnamon",
+        "khaki",
+        "blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-075",
+      "volume": 2,
+      "number": 75,
+      "colorIds": [
+        "khaki",
+        "red-orange",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-076",
+      "volume": 2,
+      "number": 76,
+      "colorIds": [
+        "cobalt-green",
+        "apricot-orange",
+        "olympic-blue",
+        "red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-077",
+      "volume": 2,
+      "number": 77,
+      "colorIds": [
+        "white",
+        "naples-yellow",
+        "orange",
+        "chromium-green",
+        "cerulian-blue",
+        "vistoris-lake"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-078",
+      "volume": 2,
+      "number": 78,
+      "colorIds": [
+        "pale-turtle-green",
+        "grenadine-pink",
+        "cerulian-blue",
+        "madder-brown",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-079",
+      "volume": 2,
+      "number": 79,
+      "colorIds": [
+        "white",
+        "corinthian-pink",
+        "khaki",
+        "chromium-green",
+        "scarlet",
+        "dull-purplish-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-080",
+      "volume": 2,
+      "number": 80,
+      "colorIds": [
+        "calamine-blue",
+        "eosine-pink",
+        "orange",
+        "light-porcelain-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-081",
+      "volume": 2,
+      "number": 81,
+      "colorIds": [
+        "ivory-buff",
+        "vinaceous-cinnamon",
+        "eupatorium-purple",
+        "antwarp-blue",
+        "red",
+        "violet-carmine",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-082",
+      "volume": 2,
+      "number": 82,
+      "colorIds": [
+        "corinthian-pink",
+        "ecru",
+        "eugenia-red-a",
+        "eupatorium-purple",
+        "antwarp-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-083",
+      "volume": 2,
+      "number": 83,
+      "colorIds": [
+        "white",
+        "neutral-gray",
+        "pyrite-yellow",
+        "orange-rufous",
+        "olympic-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-084",
+      "volume": 2,
+      "number": 84,
+      "colorIds": [
+        "pale-king-s-blue-2",
+        "olive-buff",
+        "isabella-color",
+        "old-rose",
+        "mars-brown-tobacco"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-085",
+      "volume": 2,
+      "number": 85,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "turquoise-green",
+        "corinthian-pink",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-086",
+      "volume": 2,
+      "number": 86,
+      "colorIds": [
+        "glaucous-green",
+        "ecru",
+        "dull-citrine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-087",
+      "volume": 2,
+      "number": 87,
+      "colorIds": [
+        "white",
+        "ivory-buff",
+        "light-green-yellow",
+        "peach-red",
+        "orange-citrine",
+        "antwarp-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-088",
+      "volume": 2,
+      "number": 88,
+      "colorIds": [
+        "light-glaucous-blue",
+        "vinaceous-cinnamon",
+        "green",
+        "eugenia-red-b",
+        "dark-soft-violet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-089",
+      "volume": 2,
+      "number": 89,
+      "colorIds": [
+        "naples-yellow",
+        "ivory-buff",
+        "green",
+        "veronia-purple",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-090",
+      "volume": 2,
+      "number": 90,
+      "colorIds": [
+        "hermosa-pink",
+        "pale-king-s-blue-2",
+        "grayish-lavender-a",
+        "ecru",
+        "maple",
+        "chromium-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-091",
+      "volume": 2,
+      "number": 91,
+      "colorIds": [
+        "white",
+        "cream-yellow",
+        "buffy-citrine",
+        "dark-medici-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-092",
+      "volume": 2,
+      "number": 92,
+      "colorIds": [
+        "glaucous-green",
+        "grape-green",
+        "pistachio-green",
+        "rosolanc-purple",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-093",
+      "volume": 2,
+      "number": 93,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "cream-yellow",
+        "light-glaucous-blue",
+        "pale-raw-umber",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-094",
+      "volume": 2,
+      "number": 94,
+      "colorIds": [
+        "sea-foam-yellow",
+        "corinthian-pink",
+        "apricot-orange",
+        "old-rose"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-095",
+      "volume": 2,
+      "number": 95,
+      "colorIds": [
+        "white",
+        "spectrum-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-096",
+      "volume": 2,
+      "number": 96,
+      "colorIds": [
+        "orange-yellow",
+        "vinaceous-cinnamon",
+        "green",
+        "jasper-red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-097",
+      "volume": 2,
+      "number": 97,
+      "colorIds": [
+        "naples-yellow",
+        "ochraceous-salmon",
+        "red-orange",
+        "violet-ultramarine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-098",
+      "volume": 2,
+      "number": 98,
+      "colorIds": [
+        "orange-yellow",
+        "pinkish-cinnamon",
+        "pale-methyl-blue",
+        "dull-citrine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-099",
+      "volume": 2,
+      "number": 99,
+      "colorIds": [
+        "white",
+        "warm-gray",
+        "green",
+        "vinaceous-tawny",
+        "vistoris-lake"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-100",
+      "volume": 2,
+      "number": 100,
+      "colorIds": [
+        "orange-yellow",
+        "ecru",
+        "red-orange",
+        "antwarp-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-101",
+      "volume": 2,
+      "number": 101,
+      "colorIds": [
+        "white",
+        "red-orange",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-102",
+      "volume": 2,
+      "number": 102,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "neutral-gray",
+        "eugenia-red-a",
+        "green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-103",
+      "volume": 2,
+      "number": 103,
+      "colorIds": [
+        "white",
+        "jasper-red",
+        "blue",
+        "diamine-green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-104",
+      "volume": 2,
+      "number": 104,
+      "colorIds": [
+        "yellow",
+        "sulphur-yellow",
+        "eosine-pink",
+        "light-brown-drab",
+        "cerulian-blue",
+        "pomegranite-purple",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-105",
+      "volume": 2,
+      "number": 105,
+      "colorIds": [
+        "white",
+        "naples-yellow",
+        "salvia-blue",
+        "olympic-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-106",
+      "volume": 2,
+      "number": 106,
+      "colorIds": [
+        "white",
+        "venice-green",
+        "rosolanc-purple",
+        "dark-slate-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-107",
+      "volume": 2,
+      "number": 107,
+      "colorIds": [
+        "white",
+        "apricot-yellow",
+        "green",
+        "violet-carmine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-108",
+      "volume": 2,
+      "number": 108,
+      "colorIds": [
+        "white",
+        "lemon-yellow",
+        "eosine-pink",
+        "deep-violet-plumbeous",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-109",
+      "volume": 2,
+      "number": 109,
+      "colorIds": [
+        "white",
+        "spinel-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-110",
+      "volume": 2,
+      "number": 110,
+      "colorIds": [
+        "white",
+        "olympic-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-111",
+      "volume": 2,
+      "number": 111,
+      "colorIds": [
+        "white",
+        "cinnamon-buff",
+        "pale-king-s-blue-2",
+        "neutral-gray",
+        "venice-green",
+        "coral-red",
+        "blue",
+        "hay-s-russet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-112",
+      "volume": 2,
+      "number": 112,
+      "colorIds": [
+        "sulphur-yellow",
+        "seashell-pink",
+        "dark-greenish-glaucous",
+        "ecru",
+        "cerulian-blue",
+        "red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-113",
+      "volume": 2,
+      "number": 113,
+      "colorIds": [
+        "turquoise-green",
+        "pale-king-s-blue-2",
+        "orange-yellow",
+        "cerulian-blue",
+        "eugenia-red-b",
+        "spectrum-red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-114",
+      "volume": 2,
+      "number": 114,
+      "colorIds": [
+        "ivory-buff",
+        "maple",
+        "red-orange",
+        "violet-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-115",
+      "volume": 2,
+      "number": 115,
+      "colorIds": [
+        "white",
+        "hermosa-pink",
+        "night-green",
+        "spectrum-red",
+        "antwarp-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-116",
+      "volume": 2,
+      "number": 116,
+      "colorIds": [
+        "naples-yellow",
+        "neutral-gray",
+        "light-porcelain-green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-117",
+      "volume": 2,
+      "number": 117,
+      "colorIds": [
+        "sulphur-yellow",
+        "coral-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-118",
+      "volume": 2,
+      "number": 118,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "english-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-119",
+      "volume": 2,
+      "number": 119,
+      "colorIds": [
+        "mineral-gray",
+        "coral-red",
+        "dark-soft-violet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-120",
+      "volume": 2,
+      "number": 120,
+      "colorIds": [
+        "yellow",
+        "neutral-gray",
+        "antwarp-blue",
+        "violet-carmine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-121",
+      "volume": 2,
+      "number": 121,
+      "colorIds": [
+        "white",
+        "rosolanc-purple",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-122",
+      "volume": 2,
+      "number": 122,
+      "colorIds": [
+        "white",
+        "apricot-orange",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-123",
+      "volume": 2,
+      "number": 123,
+      "colorIds": [
+        "white",
+        "pomegranite-purple",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-124",
+      "volume": 2,
+      "number": 124,
+      "colorIds": [
+        "yellow-green",
+        "calamine-blue",
+        "pomegranite-purple",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-125",
+      "volume": 2,
+      "number": 125,
+      "colorIds": [
+        "pinkish-cinnamon",
+        "artemesia-green",
+        "pale-raw-umber",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-126",
+      "volume": 2,
+      "number": 126,
+      "colorIds": [
+        "neutral-gray",
+        "sulphine-yellow",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-127",
+      "volume": 2,
+      "number": 127,
+      "colorIds": [
+        "orange-yellow",
+        "green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-128",
+      "volume": 2,
+      "number": 128,
+      "colorIds": [
+        "pistachio-green",
+        "olympic-blue",
+        "red-orange",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-129",
+      "volume": 2,
+      "number": 129,
+      "colorIds": [
+        "sulphine-yellow",
+        "benzol-green",
+        "helvetia-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-130",
+      "volume": 2,
+      "number": 130,
+      "colorIds": [
+        "apricot-yellow",
+        "neutral-gray",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-131",
+      "volume": 2,
+      "number": 131,
+      "colorIds": [
+        "yellow-ocher",
+        "grenadine-pink",
+        "olympic-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-132",
+      "volume": 2,
+      "number": 132,
+      "colorIds": [
+        "yellow",
+        "sulphur-yellow",
+        "hermosa-pink"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-133",
+      "volume": 2,
+      "number": 133,
+      "colorIds": [
+        "neutral-gray",
+        "pomegranite-purple",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-134",
+      "volume": 2,
+      "number": 134,
+      "colorIds": [
+        "sulphur-yellow",
+        "spinel-red",
+        "cerulian-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-135",
+      "volume": 2,
+      "number": 135,
+      "colorIds": [
+        "ivory-buff",
+        "neutral-gray",
+        "indian-lake"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-136",
+      "volume": 2,
+      "number": 136,
+      "colorIds": [
+        "yellow-orange",
+        "carmine",
+        "diamine-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-137",
+      "volume": 2,
+      "number": 137,
+      "colorIds": [
+        "white",
+        "ivory-buff",
+        "dull-viridian-green",
+        "spectrum-red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-138",
+      "volume": 2,
+      "number": 138,
+      "colorIds": [
+        "lemon-yellow",
+        "spectrum-red",
+        "violet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-139",
+      "volume": 2,
+      "number": 139,
+      "colorIds": [
+        "white",
+        "yellow",
+        "cerulian-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-140",
+      "volume": 2,
+      "number": 140,
+      "colorIds": [
+        "yellow",
+        "olive-buff",
+        "deep-violet-plumbeous",
+        "pompeian-red",
+        "violet-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-141",
+      "volume": 2,
+      "number": 141,
+      "colorIds": [
+        "white",
+        "warm-gray",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-142",
+      "volume": 2,
+      "number": 142,
+      "colorIds": [
+        "white",
+        "red-violet",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-143",
+      "volume": 2,
+      "number": 143,
+      "colorIds": [
+        "neutral-gray",
+        "indian-lake",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-144",
+      "volume": 2,
+      "number": 144,
+      "colorIds": [
+        "white",
+        "ivory-buff",
+        "green-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-145",
+      "volume": 2,
+      "number": 145,
+      "colorIds": [
+        "pale-king-s-blue-2",
+        "olive-buff",
+        "neutral-gray",
+        "eosine-pink",
+        "red-orange",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-146",
+      "volume": 2,
+      "number": 146,
+      "colorIds": [
+        "warm-gray",
+        "peach-red",
+        "slate-color"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-147",
+      "volume": 2,
+      "number": 147,
+      "colorIds": [
+        "white",
+        "yellow-ocher",
+        "cerulian-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-148",
+      "volume": 2,
+      "number": 148,
+      "colorIds": [
+        "sulphur-yellow",
+        "mineral-gray",
+        "pistachio-green",
+        "red-orange"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-149",
+      "volume": 2,
+      "number": 149,
+      "colorIds": [
+        "white",
+        "neutral-gray",
+        "spectrum-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-150",
+      "volume": 2,
+      "number": 150,
+      "colorIds": [
+        "seashell-pink",
+        "calamine-blue",
+        "coral-red",
+        "sepia",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-151",
+      "volume": 2,
+      "number": 151,
+      "colorIds": [
+        "naples-yellow",
+        "grayish-lavender-b",
+        "salvia-blue",
+        "sea-green",
+        "sudan-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-152",
+      "volume": 2,
+      "number": 152,
+      "colorIds": [
+        "seashell-pink",
+        "pale-king-s-blue-2",
+        "orange-yellow",
+        "eosine-pink",
+        "rainette-green",
+        "dark-medici-blue",
+        "brown",
+        "vandar-poel-s-blue",
+        "dusky-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-153",
+      "volume": 2,
+      "number": 153,
+      "colorIds": [
+        "pale-king-s-blue-2",
+        "yellow-orange",
+        "laelia-pink",
+        "etruscan-red",
+        "pale-raw-umber",
+        "hay-s-russet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-154",
+      "volume": 2,
+      "number": 154,
+      "colorIds": [
+        "white",
+        "cream-yellow",
+        "light-glaucous-blue",
+        "laelia-pink",
+        "orange-rufous",
+        "carmine-red",
+        "vandar-poel-s-blue",
+        "violet-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-155",
+      "volume": 2,
+      "number": 155,
+      "colorIds": [
+        "pyrite-yellow",
+        "orange-citrine",
+        "violet-carmine",
+        "vandar-poel-s-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-156",
+      "volume": 2,
+      "number": 156,
+      "colorIds": [
+        "naples-yellow",
+        "old-rose",
+        "english-red",
+        "vandar-poel-s-blue",
+        "mars-brown-tobacco",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-157",
+      "volume": 2,
+      "number": 157,
+      "colorIds": [
+        "white",
+        "ochraceous-salmon",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-158",
+      "volume": 2,
+      "number": 158,
+      "colorIds": [
+        "naples-yellow",
+        "ochraceous-salmon",
+        "jasper-red",
+        "orange-citrine",
+        "helvetia-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-159",
+      "volume": 2,
+      "number": 159,
+      "colorIds": [
+        "seashell-pink",
+        "grayish-lavender-b",
+        "spectrum-red",
+        "blue-violet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-160",
+      "volume": 2,
+      "number": 160,
+      "colorIds": [
+        "white",
+        "orange-yellow",
+        "cotinga-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-161",
+      "volume": 2,
+      "number": 161,
+      "colorIds": [
+        "white",
+        "pistachio-green",
+        "scarlet",
+        "slate-color"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-162",
+      "volume": 2,
+      "number": 162,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "venice-green",
+        "coral-red",
+        "blackish-olive"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-163",
+      "volume": 2,
+      "number": 163,
+      "colorIds": [
+        "pale-king-s-blue-2",
+        "olive-ocher",
+        "old-rose",
+        "deep-violet-plumbeous",
+        "violet-blue",
+        "mars-brown-tobacco"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-164",
+      "volume": 2,
+      "number": 164,
+      "colorIds": [
+        "ivory-buff",
+        "coral-red",
+        "red",
+        "sepia",
+        "dusky-madder-violet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-165",
+      "volume": 2,
+      "number": 165,
+      "colorIds": [
+        "white",
+        "cream-yellow",
+        "sea-green",
+        "cerulian-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-166",
+      "volume": 2,
+      "number": 166,
+      "colorIds": [
+        "yellow",
+        "apricot-orange",
+        "green-blue",
+        "dark-medici-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-167",
+      "volume": 2,
+      "number": 167,
+      "colorIds": [
+        "white",
+        "apricot-yellow",
+        "calamine-blue",
+        "red-orange",
+        "dusky-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-168",
+      "volume": 2,
+      "number": 168,
+      "colorIds": [
+        "white",
+        "sulphine-yellow",
+        "green-blue",
+        "vandyke-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-169",
+      "volume": 2,
+      "number": 169,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "green-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-170",
+      "volume": 2,
+      "number": 170,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "light-glaucous-blue",
+        "violet-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-171",
+      "volume": 2,
+      "number": 171,
+      "colorIds": [
+        "white",
+        "apricot-yellow",
+        "pomegranite-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-172",
+      "volume": 2,
+      "number": 172,
+      "colorIds": [
+        "white",
+        "sea-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-173",
+      "volume": 2,
+      "number": 173,
+      "colorIds": [
+        "white",
+        "pale-cinnamon-pink",
+        "pale-turtle-green",
+        "orange-citrine",
+        "spectrum-red",
+        "deep-slate-olive"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-174",
+      "volume": 2,
+      "number": 174,
+      "colorIds": [
+        "white",
+        "cossack-green",
+        "dusky-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-175",
+      "volume": 2,
+      "number": 175,
+      "colorIds": [
+        "white",
+        "yellow-ocher",
+        "carmine-red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-176",
+      "volume": 2,
+      "number": 176,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "pale-lemon-yellow",
+        "cinnamon-buff",
+        "red-orange",
+        "dark-medici-blue",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-177",
+      "volume": 2,
+      "number": 177,
+      "colorIds": [
+        "light-green-yellow",
+        "light-porcelain-green",
+        "burnt-sienna",
+        "cossack-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-178",
+      "volume": 2,
+      "number": 178,
+      "colorIds": [
+        "orange",
+        "burnt-sienna",
+        "dull-purplish-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-179",
+      "volume": 2,
+      "number": 179,
+      "colorIds": [
+        "white",
+        "coral-red",
+        "orange-citrine",
+        "dark-tyrian-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-180",
+      "volume": 2,
+      "number": 180,
+      "colorIds": [
+        "white",
+        "naples-yellow",
+        "dull-viridian-green",
+        "vinaceous-tawny",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-181",
+      "volume": 2,
+      "number": 181,
+      "colorIds": [
+        "white",
+        "orange-yellow",
+        "carmine",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-182",
+      "volume": 2,
+      "number": 182,
+      "colorIds": [
+        "white",
+        "cobalt-green",
+        "yellow-orange"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-183",
+      "volume": 2,
+      "number": 183,
+      "colorIds": [
+        "white",
+        "pale-cinnamon-pink",
+        "apricot-orange",
+        "green-blue",
+        "scarlet"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-184",
+      "volume": 2,
+      "number": 184,
+      "colorIds": [
+        "english-red",
+        "vandar-poel-s-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-185",
+      "volume": 2,
+      "number": 185,
+      "colorIds": [
+        "yellow-ocher",
+        "spectrum-red",
+        "diamine-green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-186",
+      "volume": 2,
+      "number": 186,
+      "colorIds": [
+        "light-glaucous-blue",
+        "grenadine-pink",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-187",
+      "volume": 2,
+      "number": 187,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "light-glaucous-blue",
+        "coral-red",
+        "krongbergs-green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-188",
+      "volume": 2,
+      "number": 188,
+      "colorIds": [
+        "white",
+        "calamine-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-189",
+      "volume": 2,
+      "number": 189,
+      "colorIds": [
+        "white",
+        "pyrite-yellow",
+        "salvia-blue",
+        "pomegranite-purple",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-190",
+      "volume": 2,
+      "number": 190,
+      "colorIds": [
+        "white",
+        "cobalt-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-191",
+      "volume": 2,
+      "number": 191,
+      "colorIds": [
+        "white",
+        "grayish-lavender-a",
+        "eugenia-red-a",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-192",
+      "volume": 2,
+      "number": 192,
+      "colorIds": [
+        "white",
+        "neutral-gray",
+        "yellow-ocher",
+        "spinel-red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-193",
+      "volume": 2,
+      "number": 193,
+      "colorIds": [
+        "white",
+        "apricot-yellow",
+        "pale-king-s-blue-2",
+        "light-green-yellow",
+        "deep-violet-plumbeous",
+        "carmine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-194",
+      "volume": 2,
+      "number": 194,
+      "colorIds": [
+        "white",
+        "apricot-yellow",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-195",
+      "volume": 2,
+      "number": 195,
+      "colorIds": [
+        "white",
+        "chromium-green",
+        "english-red",
+        "olympic-blue",
+        "mars-brown-tobacco"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-196",
+      "volume": 2,
+      "number": 196,
+      "colorIds": [
+        "white",
+        "light-glaucous-blue",
+        "orange",
+        "dark-medici-blue",
+        "helvetia-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-197",
+      "volume": 2,
+      "number": 197,
+      "colorIds": [
+        "white",
+        "olive-ocher",
+        "benzol-green",
+        "pompeian-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-198",
+      "volume": 2,
+      "number": 198,
+      "colorIds": [
+        "white",
+        "orange",
+        "oil-green",
+        "madder-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-199",
+      "volume": 2,
+      "number": 199,
+      "colorIds": [
+        "white",
+        "english-red",
+        "cossack-green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-200",
+      "volume": 2,
+      "number": 200,
+      "colorIds": [
+        "white",
+        "apricot-orange",
+        "dusky-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-201",
+      "volume": 2,
+      "number": 201,
+      "colorIds": [
+        "white",
+        "cream-yellow",
+        "dull-viridian-green",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-202",
+      "volume": 2,
+      "number": 202,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "venice-green",
+        "ochraceous-salmon",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-203",
+      "volume": 2,
+      "number": 203,
+      "colorIds": [
+        "hermosa-pink",
+        "light-brown-drab",
+        "indian-lake",
+        "vandyke-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-204",
+      "volume": 2,
+      "number": 204,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "rosolanc-purple"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-205",
+      "volume": 2,
+      "number": 205,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "scarlet",
+        "deep-slate-green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-206",
+      "volume": 2,
+      "number": 206,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "yellow",
+        "turquoise-green",
+        "pinkish-cinnamon",
+        "grayish-lavender-a",
+        "peach-red",
+        "cerulian-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-207",
+      "volume": 2,
+      "number": 207,
+      "colorIds": [
+        "pale-purplish-vinaceous",
+        "nile-blue",
+        "grayish-lavender-b",
+        "khaki",
+        "madder-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-208",
+      "volume": 2,
+      "number": 208,
+      "colorIds": [
+        "naples-yellow",
+        "nile-blue",
+        "pale-turtle-green",
+        "chromium-green",
+        "cinnamon-rufous",
+        "eugenia-red-b",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-209",
+      "volume": 2,
+      "number": 209,
+      "colorIds": [
+        "white",
+        "golden-yellow",
+        "olympic-blue",
+        "pomegranite-purple",
+        "mars-brown-tobacco",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-210",
+      "volume": 2,
+      "number": 210,
+      "colorIds": [
+        "naples-yellow",
+        "neutral-gray",
+        "peach-red",
+        "green",
+        "spectrum-red",
+        "pale-raw-umber"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-211",
+      "volume": 2,
+      "number": 211,
+      "colorIds": [
+        "white",
+        "light-green-yellow",
+        "cobalt-green",
+        "maple",
+        "green",
+        "olympic-blue",
+        "vandyke-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-212",
+      "volume": 2,
+      "number": 212,
+      "colorIds": [
+        "white",
+        "pale-purplish-vinaceous",
+        "ecru",
+        "olive",
+        "sudan-brown",
+        "blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-213",
+      "volume": 2,
+      "number": 213,
+      "colorIds": [
+        "cameo-pink",
+        "venice-green",
+        "warm-gray",
+        "eugenia-red-b",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-214",
+      "volume": 2,
+      "number": 214,
+      "colorIds": [
+        "naples-yellow",
+        "pale-king-s-blue-2",
+        "coral-red",
+        "deep-indigo"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-215",
+      "volume": 2,
+      "number": 215,
+      "colorIds": [
+        "olive-ocher",
+        "grayish-lavender-b",
+        "hydrangea-red",
+        "vandar-poel-s-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-216",
+      "volume": 2,
+      "number": 216,
+      "colorIds": [
+        "white",
+        "pale-turtle-green",
+        "mineral-gray",
+        "eosine-pink",
+        "sulphine-yellow",
+        "helvetia-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-217",
+      "volume": 2,
+      "number": 217,
+      "colorIds": [
+        "calamine-blue",
+        "salvia-blue",
+        "olympic-blue",
+        "sudan-brown",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-218",
+      "volume": 2,
+      "number": 218,
+      "colorIds": [
+        "orange-yellow",
+        "light-glaucous-blue",
+        "mineral-gray",
+        "spinel-red",
+        "green",
+        "vandyke-red",
+        "vandyke-brown",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-219",
+      "volume": 2,
+      "number": 219,
+      "colorIds": [
+        "yellow-green",
+        "calamine-blue",
+        "coral-red",
+        "dark-medici-blue",
+        "hydrangea-red",
+        "brick-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-220",
+      "volume": 2,
+      "number": 220,
+      "colorIds": [
+        "naples-yellow",
+        "seashell-pink",
+        "pale-king-s-blue-2",
+        "eosine-pink",
+        "grenadine-pink",
+        "citrine",
+        "violet-blue"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-221",
+      "volume": 2,
+      "number": 221,
+      "colorIds": [
+        "cinnamon-buff",
+        "olive-buff",
+        "calamine-blue",
+        "laelia-pink",
+        "peach-red",
+        "brick-red"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-222",
+      "volume": 2,
+      "number": 222,
+      "colorIds": [
+        "yellow",
+        "nile-blue",
+        "khaki",
+        "artemesia-green",
+        "brick-red",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-223",
+      "volume": 2,
+      "number": 223,
+      "colorIds": [
+        "ivory-buff",
+        "light-glaucous-blue",
+        "laelia-pink",
+        "olympic-blue",
+        "dark-soft-violet",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-224",
+      "volume": 2,
+      "number": 224,
+      "colorIds": [
+        "white",
+        "apricot-yellow",
+        "mineral-gray",
+        "green"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-225",
+      "volume": 2,
+      "number": 225,
+      "colorIds": [
+        "pale-king-s-blue-1",
+        "turquoise-green",
+        "yellow-ocher",
+        "venice-green",
+        "dark-medici-blue",
+        "blackish-olive"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-226",
+      "volume": 2,
+      "number": 226,
+      "colorIds": [
+        "pale-lemon-yellow",
+        "olive-buff",
+        "calamine-blue",
+        "chromium-green",
+        "dull-citrine"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-227",
+      "volume": 2,
+      "number": 227,
+      "colorIds": [
+        "ivory-buff",
+        "cameo-pink",
+        "fresh-color",
+        "artemesia-green",
+        "red-orange",
+        "vandyke-brown"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-228",
+      "volume": 2,
+      "number": 228,
+      "colorIds": [
+        "turquoise-green",
+        "citron-yellow",
+        "sulphine-yellow",
+        "light-brown-drab",
+        "light-porcelain-green",
+        "brick-red",
+        "dull-purplish-black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-229",
+      "volume": 2,
+      "number": 229,
+      "colorIds": [
+        "calamine-blue",
+        "eugenia-red-a",
+        "dark-medici-blue",
+        "vandar-poel-s-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-230",
+      "volume": 2,
+      "number": 230,
+      "colorIds": [
+        "naples-yellow",
+        "pale-king-s-blue-2",
+        "corinthian-pink",
+        "neutral-gray",
+        "venice-green",
+        "grayish-lavender-b"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-231",
+      "volume": 2,
+      "number": 231,
+      "colorIds": [
+        "cream-yellow",
+        "corinthian-pink",
+        "maple",
+        "pale-methyl-blue",
+        "chromium-green",
+        "english-red",
+        "violet",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-232",
+      "volume": 2,
+      "number": 232,
+      "colorIds": [
+        "yellow-ocher",
+        "warm-gray",
+        "eugenia-red-a",
+        "green-blue",
+        "dark-medici-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    },
+    {
+      "id": "v2-233",
+      "volume": 2,
+      "number": 233,
+      "colorIds": [
+        "orange-yellow",
+        "neutral-gray",
+        "venice-green",
+        "eosine-pink",
+        "helvetia-blue",
+        "black"
+      ],
+      "sourceId": "wada-ink"
+    }
+  ],
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Том I",
+      "available": true,
+      "count": 348,
+      "note": "348 сочетаний из открытого набора Matt DesLauriers, основанного на книге Сандзо Вады."
+    },
+    {
+      "id": 2,
+      "title": "Том II",
+      "available": true,
+      "count": 233,
+      "note": "233 сочетания по каталогу Wada.ink: сезонные палитры и примеры дизайна. Независимая сверка с печатным изданием не выполнена."
+    }
+  ]
+}

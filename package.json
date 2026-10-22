@@ -1,0 +1,13 @@
+{
+  "name": "color-dictionary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small static explorer of Sanzo Wada color combinations.",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": { "node": ">=22" }
+}

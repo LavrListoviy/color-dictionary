@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f3eb">
+    <meta name="description" content="Сочетания цветов Санзо Вады: случайные палитры и подбор по одному или двум вашим оттенкам.">
+    <title>Словарь цвета — сочетания Санзо Вады</title>
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./src/styles.css">
+    <script type="module" src="./src/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#workspace">К палитрам</a>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="wordmark" href="./" aria-label="Словарь цвета — главная">
+          <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+          <span>Словарь цвета<span class="wordmark-caption">Коллекция Санзо Вады</span></span>
+        </a>
+        <button class="text-button about-button" id="about-button" type="button">О коллекции <span aria-hidden="true">↗</span></button>
+      </header>
+
+      <main id="workspace">
+        <section class="intro" aria-labelledby="page-title">
+          <div>
+            <p class="eyebrow"><span class="tiny-line"></span> ИСКУССТВО СОЧЕТАТЬ</p>
+            <h1 id="page-title">Цвет. И хорошая<br><em>компания.</em></h1>
+          </div>
+          <div class="intro-note">
+            <p>Найдите неожиданное сочетание.<br>Или начните с любимого оттенка.</p>
+            <span class="catalog-stat" id="catalog-stat">Загружаем коллекцию…</span>
+          </div>
+        </section>
+
+        <div class="workspace" id="app-workspace" aria-busy="true">
+          <nav class="view-tabs" aria-label="Режим просмотра" role="tablist">
+            <button id="tab-random" type="button" role="tab" aria-selected="true" aria-controls="panel-random" tabindex="0" data-view="random"><span aria-hidden="true">↝</span> Случайная палитра</button>
+            <button id="tab-match" type="button" role="tab" aria-selected="false" aria-controls="panel-match" tabindex="-1" data-view="match"><span aria-hidden="true">⊙</span> Подобрать по цвету</button>
+            <button id="tab-favorites" type="button" role="tab" aria-selected="false" aria-controls="panel-favorites" tabindex="-1" data-view="favorites"><span aria-hidden="true">♡</span> Избранное <span class="count-badge" id="favorite-count">0</span></button>
+          </nav>
+
+          <div class="filter-bar">
+            <div class="filter-group">
+              <label for="volume-filter">Коллекция</label>
+              <select id="volume-filter"><option value="all">Оба тома</option></select>
+            </div>
+            <div class="filter-group">
+              <label for="size-filter">Оттенков</label>
+              <select id="size-filter"><option value="all">Любое число</option></select>
+            </div>
+            <span class="filter-count" id="filter-count"></span>
+          </div>
+
+          <div class="load-state" id="load-state" role="status"><span class="loading-dot"></span> Раскладываем цвета по местам…</div>
+          <div class="sr-only" id="result-status" role="status" aria-live="polite" aria-atomic="true"></div>
+          <section id="panel-random" role="tabpanel" aria-labelledby="tab-random" tabindex="0">
+            <div class="section-topline"><p class="eyebrow">ДОВЕРЬТЕСЬ СЛУЧАЮ</p><button class="primary-button" type="button" id="random-button" disabled><span aria-hidden="true">↻</span> Новое сочетание</button></div>
+            <div id="random-content"></div>
+          </section>
+
+          <section id="panel-match" role="tabpanel" aria-labelledby="tab-match" tabindex="0" hidden>
+            <div class="match-intro"><h2>Ваш цвет — отправная точка.</h2><p>Выберите один или два оттенка. Найдём сочетания, в которых есть наиболее близкие цвета.</p></div>
+            <form id="match-form" novalidate>
+              <div class="color-fields">
+                <div class="color-field" id="first-field">
+                  <label for="first-hex">Первый оттенок</label>
+                  <div class="color-input-row"><input type="color" id="first-picker" value="#c65b3e" aria-label="Выбрать первый оттенок"><input type="text" id="first-hex" value="#C65B3E" maxlength="16" spellcheck="false" autocomplete="off" aria-describedby="first-error" placeholder="#C65B3E"></div>
+                  <span class="field-error" id="first-error" aria-live="polite"></span>
+                </div>
+                <div class="color-field" id="second-field" hidden>
+                  <div class="field-label-row"><label for="second-hex">Второй оттенок</label><button type="button" class="remove-color" id="remove-second" aria-label="Убрать второй оттенок">×</button></div>
+                  <div class="color-input-row"><input type="color" id="second-picker" value="#496a72" aria-label="Выбрать второй оттенок"><input type="text" id="second-hex" value="#496A72" maxlength="16" spellcheck="false" autocomplete="off" aria-describedby="second-error" placeholder="#496A72"></div>
+                  <span class="field-error" id="second-error" aria-live="polite"></span>
+                </div>
+                <button type="button" class="add-color" id="add-second"><span aria-hidden="true">＋</span> Добавить второй</button>
+                <button type="submit" class="primary-button find-button" id="find-button" disabled>Найти сочетания <span aria-hidden="true">↗</span></button>
+              </div>
+              <p class="input-hint">HEX из 3 или 6 символов, например #E88 или #EE8888.</p>
+            </form>
+            <div id="match-content"></div>
+          </section>
+
+          <section id="panel-favorites" role="tabpanel" aria-labelledby="tab-favorites" tabindex="0" hidden>
+            <div class="match-intro"><h2>Оставьте то, что зацепило.</h2><p>Избранные сочетания хранятся в этом браузере.</p></div>
+            <div id="favorites-content"></div>
+          </section>
+        </div>
+      </main>
+
+      <footer class="site-footer"><span>Санзо Вада · <span id="footer-count">Два тома</span></span><span>Цвет на экране может отличаться от печатного образца.</span></footer>
+    </div>
+
+    <dialog id="about-dialog" aria-labelledby="about-title">
+      <div class="dialog-topline"><p class="eyebrow">О КОЛЛЕКЦИИ</p><button type="button" class="icon-button" id="close-about" aria-label="Закрыть">×</button></div>
+      <h2 id="about-title">Словарь цвета</h2>
+      <p>Сочетания из двух частей «Словаря цвета» Санзо Вады — японского художника и исследователя цвета.</p>
+      <div id="source-details"></div>
+      <p>Короткие пояснения созданы для этого приложения по свойствам оттенков. Это интерпретации, а не цитаты из книги. Исходные цвета палитр при подборе не заменяются вашими.</p>
+      <p>Значения HEX — цифровое приближение печатных цветов. У разных оцифровок они могут различаться.</p>
+      <a class="source-link" href="https://en.seigensha.com/books/978-4-86152-772-2/" target="_blank" rel="noopener noreferrer">О книге у издателя Seigensha ↗</a>
+      <p><a class="source-link" href="./THIRD_PARTY_NOTICES.txt" target="_blank" rel="noopener noreferrer">Уведомления авторов цифровых данных ↗</a></p>
+    </dialog>
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+    <noscript><p class="noscript">Для подбора палитр включите JavaScript в браузере.</p></noscript>
+  </body>
+</html>

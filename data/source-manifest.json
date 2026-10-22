@@ -1,0 +1,21 @@
+{
+  "importedAt": "2026-10-22T17:13:31.103Z",
+  "records": {
+    "colors": 173,
+    "palettes": 581,
+    "volume1": 348,
+    "volume2": 233
+  },
+  "sources": [
+    {
+      "id": "mattdesl",
+      "url": "https://raw.githubusercontent.com/mattdesl/dictionary-of-colour-combinations/master/colors.json",
+      "sha256": "555f11c32eb8133078fd470dd7d5320533aaa8b636f12fa06a8dd3d0ee2703b4"
+    },
+    {
+      "id": "wada-ink",
+      "url": "https://wada.ink/palettes",
+      "sha256": "caa859b06a1d537f3081fc5ce10403ce2959c0bf91322772d94ab641d06e54e7"
+    }
+  ]
+}
